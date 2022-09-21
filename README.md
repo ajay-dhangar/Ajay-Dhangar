@@ -9,11 +9,11 @@
 
 <p align="left"> <a href="https://twitter.com/ajaydha27250016" target="blank"><img src="https://img.shields.io/twitter/follow/ajaydha27250016?logo=twitter&style=for-the-badge" alt="ajaydha27250016" /></a> </p>
 
-- 🔭 I’m currently working on [Coding Website project](https://github.com/Ajay-Dhangar/Aj_Zero_Coding.github.io)
+- 🔭 I’m currently working on [Full Stack Web Development ](https://github.com/Ajay-Dhangar/Aj_Zero_Coding.github.io)
 
 - 🌱 I’m currently learning **JavaScript, DSA, MERN, React, etc.**
 
-- 👯 I’m looking to collaborate on [Coding Website project](https://github.com/Ajay-Dhangar/Aj_Zero_Coding.github.io)
+- 👯 I’m looking to collaborate on [Web develoment](https://github.com/Ajay-Dhangar/Aj_Zero_Coding.github.io)
 
 - 👨‍💻 All of my projects are available at [https://ajay-dhangar.github.io/Responsive-portfolio-website.github.io/#about](https://ajay-dhangar.github.io/Responsive-portfolio-website.github.io/#about)
 
