@@ -1,6 +1,6 @@
 ![Ajay Dhangar](https://user-images.githubusercontent.com/99037494/192684639-2abb115f-700f-4b24-aec5-2da5ea23dc42.png)
 
-<h1 align="center">Hi 👋, I'm Ajay Dhangar</h1>
+<h1 align="center">Hi 👋, I'm Ajay Dhangar.</h1>
 <h3 align="center">A passionate Full-stack web developer from India</h3>
 
 <img align="right" alt="Coding" width="400" src="https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2020/03/full-stack-development.gif">
