@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/ajaydha27250016" target="blank"><img src="https://img.shields.io/twitter/follow/ajaydha27250016?logo=twitter&style=for-the-badge" alt="ajaydha27250016" /></a> </p>
 
-- 🔭 I’m currently working on [Full Stack Web Development ](https://github.com/Ajay-Dhangar/Aj_Zero_Coding.github.io)
+- 🔭 I’m currently working on [Full Stack Web Development ](https://ajay-dhangar.github.io/Aj-Zero-Coding-2.o.github.io/)
 
 - 🌱 I’m currently learning **JavaScript, DSA, MERN, React, etc.**
 
