@@ -88,6 +88,6 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ajay-dhangar&theme=dark" alt="ajay-dhangar" /></p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ajay-dhangar&show_icons=true&locale=en&layout=compact&bg_color=151515" alt="ajay-dhangar" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ajay-dhangar&show_icons=true&locale=en&layout=compact&bg_color=151515" alt="ajay-dhangar" /></p>
 
 </p>
