@@ -83,15 +83,11 @@
 
 <p align="center"> <img align="center" src="https://leetcode-stats.vercel.app/api?username=ajaydhangar49&theme=light" alt="ajay-dhangar" /> 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ajay-dhangar&show_icons=true&locale=en&layout=compact&bg_color=151515" alt="ajay-dhangar" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ajay-dhangar&show_icons=true&locale=en&title_color=green&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" alt="ajay-dhangar" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ajay-dhangar&theme=dark" alt="ajay-dhangar" /></p>
 
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ajay-dhangar&show_icons=true&locale=en&layout=compact&bg_color=151515" alt="ajay-dhangar" /></p>
+
 </p>
-
-
-
- 
