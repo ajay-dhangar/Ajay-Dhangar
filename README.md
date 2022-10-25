@@ -9,15 +9,15 @@
 
 <p align="left"> <a href="https://twitter.com/ajaydha27250016" target="blank"><img src="https://img.shields.io/twitter/follow/ajaydha27250016?logo=twitter&style=for-the-badge" alt="ajaydha27250016" /></a> </p>
 
-- 🔭 I’m currently working on [Full Stack Web Development ](https://ajay-dhangar.github.io/Aj-Zero-Coding-2.o.github.io/)
+- 🔭 I’m currently working on [Full Stack Web Development ](https://ajay-dhangar.github.io/Aj-Zero-Coding-2.o.github.io/).
 
 - 🌱 I’m currently learning **JavaScript, DSA, MERN, React, etc.**
 
-- 👯 I’m looking to collaborate on [Web develoment](https://github.com/Ajay-Dhangar/Aj_Zero_Coding.github.io)
+- 👯 I’m looking to collaborate on [Web develoment](https://github.com/Ajay-Dhangar/Aj_Zero_Coding.github.io).
 
-- 👨‍💻 All of my projects are available at [https://ajay-dhangar.github.io/Responsive-portfolio-website.github.io/#about](https://ajay-dhangar.github.io/Responsive-portfolio-website.github.io/#about)
+- 👨‍💻 All of my projects are available at [My portfolio Website](https://ajay-dhangar.github.io/Responsive-portfolio-website.github.io/#about).
 
-- 📝 I regularly write articles on [https://medium.com/@ajaydhangar49](https://medium.com/@ajaydhangar49)
+- 📝 I regularly write articles on [medium.com](https://medium.com/@ajaydhangar49)
 
 - 💬 Ask me about **HTML, CSS, JavaScript, DSA in JAVA**
 
