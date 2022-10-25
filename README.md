@@ -25,8 +25,6 @@
 
 <br />
 
-<p align="left"> <img src="https://img.shields.io/github/followers/ajay-dhangar?style=social" /></p>
-
 ## Coding Profile:
 
 <a href="https://www.leetcode.com/ajaydhangar49" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ajaydhangar49" height="30" width="40" /></a>
@@ -36,7 +34,6 @@
 <a href="https://auth.geeksforgeeks.org/user/ajaydhangar49" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="ajaydhangar49" height="30" width="40" /></a>
 <a href="https://www.topcoder.com/members/ajaydhangar49" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="ajaydhangar49" height="30" width="40" /></a>
 
-<br />
 <br />
 
 ## Social Media:
