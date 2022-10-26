@@ -25,6 +25,15 @@
 
 <br />
 
+## Coding  Status :
+
+<br />
+
+<p align="left"> <img align="center" src="https://leetcode-stats.vercel.app/api?username=ajaydhangar49&theme=light" alt="ajay-dhangar" /> 
+ 
+<br />
+  
+
 ## Coding Profile:
 
 <a href="https://www.leetcode.com/ajaydhangar49" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ajaydhangar49" height="30" width="40" /></a>
@@ -34,6 +43,7 @@
 <a href="https://auth.geeksforgeeks.org/user/ajaydhangar49" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="ajaydhangar49" height="30" width="40" /></a>
 <a href="https://www.topcoder.com/members/ajaydhangar49" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="ajaydhangar49" height="30" width="40" /></a>
 
+ 
 <br />
 
 ## Social Media:
@@ -77,8 +87,6 @@
 <br />
 
 ## Profile Status:
-
-<p align="center"> <img align="center" src="https://leetcode-stats.vercel.app/api?username=ajaydhangar49&theme=light" alt="ajay-dhangar" /> 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ajay-dhangar&show_icons=true&locale=en&title_color=green&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" alt="ajay-dhangar" /></p>
 
