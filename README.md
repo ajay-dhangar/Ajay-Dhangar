@@ -88,11 +88,18 @@
 
 ## Profile Status:
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ajay-dhangar&show_icons=true&locale=en&title_color=green&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" alt="ajay-dhangar" /></p>
+<p align="center" width="100%">
+<img align="left" width="65%" src="https://github-readme-stats.vercel.app/api?username=ajay-dhangar&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" />
+<img align="left" width="27%"   src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajay-dhangar&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)](https://github.com/ajay-dhangar/github-readme-stats" />
+
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ajay-dhangar&theme=dark" alt="ajay-dhangar" /></p>
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ajay-dhangar&show_icons=true&locale=en&layout=compact&bg_color=151515" alt="ajay-dhangar" /></p>
+
 
 </p>
+
+[![Ajay Dhangar's github activity graph](https://activity-graph.herokuapp.com/graph?username=ajay-dhangar&theme=react-dark&bg_color=151515&color=ff6600&line=149414&custom_title=My%20contributions&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
