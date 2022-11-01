@@ -1,4 +1,5 @@
-![Ajay Dhangar](https://user-images.githubusercontent.com/99037494/192684639-2abb115f-700f-4b24-aec5-2da5ea23dc42.png)
+![Ajay Dhangar](https://user-images.githubusercontent.com/99037494/199245423-3d5f027c-6254-4ecf-9624-43fc4e532bb1.png)
+
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px" height="30px">, I'm Ajay Dhangar.</h1>
 <h3 align="center">A passionate Full-stack web developer from India</h3>
