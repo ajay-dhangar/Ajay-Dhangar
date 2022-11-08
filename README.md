@@ -5,7 +5,7 @@
 <h3 align="center">A passionate Full-stack web developer from India</h3>
 
 
-<img align="right" alt="Ajay Coding" width="400" src="https://user-images.githubusercontent.com/99037494/199936414-ee2eaf5d-92aa-44b8-80e3-69b1381a9790.gif">
+<img align="right" alt="Ajay Coding" width="300" src="https://user-images.githubusercontent.com/99037494/200592033-abdc9703-62cf-4d68-9e41-4d79b7290222.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajay-dhangar&label=Profile%20views&color=0e75b6&style=flat" alt="ajay-dhangar" /> </p>
 
