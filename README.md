@@ -9,6 +9,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajay-dhangar&label=Profile%20views&color=0e75b6&style=flat" alt="ajay-dhangar" /> </p>
 
+<a href="https://www.youtube.com/channel/UCRQBq8dfTEZfIMxmq-Ba9Tw?sub_confirmation=1">
+      <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://freshidea.com/jonah/youtube-api/subscribers-badge.php?label=Subscribers&style=for-the-badge&color=red&labelColor=ce4630"/></a>
+
 <p align="left"> <a href="https://twitter.com/ajaydha27250016" target="blank"><img src="https://img.shields.io/twitter/follow/ajaydha27250016?logo=twitter&style=for-the-badge" alt="ajaydha27250016" /></a> </p>
 
 - 🔭 I’m currently working on [Full Stack Web Development ](https://ajay-dhangar.github.io/Aj-Zero-Coding-2.o.github.io/).
