@@ -10,7 +10,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajay-dhangar&label=Profile%20views&color=0e75b6&style=flat" alt="ajay-dhangar" /> </p>
 
 <a href="https://www.youtube.com/channel/UCRQBq8dfTEZfIMxmq-Ba9Tw?sub_confirmation=1">
-      <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://user-images.githubusercontent.com/99037494/206134187-78c45e7d-dbdb-4284-9ac4-2f4561102566.png" height="35" width="200"/></a>
+      <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://user-images.githubusercontent.com/99037494/206134187-78c45e7d-dbdb-4284-9ac4-2f4561102566.png" height="20%" width="20%"/></a>
 <br>
 <p align="left"> <a href="https://twitter.com/ajaydha27250016" target="blank"><img src="https://img.shields.io/twitter/follow/ajaydha27250016?logo=twitter&style=for-the-badge" alt="ajaydha27250016" /></a> </p>
 
