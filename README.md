@@ -4,8 +4,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px" height="30px">, I'm Ajay Dhangar.</h1>
 <h3 align="center">A passionate Full-stack web developer from India</h3>
 
-
-<img align="right" alt="Ajay Coding" width="300" src="https://user-images.githubusercontent.com/99037494/200592033-abdc9703-62cf-4d68-9e41-4d79b7290222.gif">
+<a href="https://app.daily.dev/ajaydhangar49"><img src="https://api.daily.dev/devcards/2c80fe95babf499eaaac3762aa0bd80d.png?r=uol" width="400" align="right" alt="Ajay Dhangar's Dev Card"/></a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajay-dhangar&label=Profile%20views&color=0e75b6&style=flat" alt="ajay-dhangar" /> </p>
 
@@ -13,6 +12,8 @@
       <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://user-images.githubusercontent.com/99037494/206134187-78c45e7d-dbdb-4284-9ac4-2f4561102566.png" height="20%" width="20%"/></a>
 <br>
 <p align="left"> <a href="https://twitter.com/ajaydha27250016" target="blank"><img src="https://img.shields.io/twitter/follow/ajaydha27250016?logo=twitter&style=for-the-badge" alt="ajaydha27250016" /></a> </p>
+
+<br>
 
 - 🔭 I’m currently working on [Full Stack Web Development ](https://ajay-dhangar.github.io/Aj-Zero-Coding-2.o.github.io/).
 
@@ -27,6 +28,8 @@
 - 💬 Ask me about **HTML, CSS, JavaScript, DSA in JAVA**
 
 - 📫 How to reach me **ajaydhangar49@gmail.com**
+
+- 📃 I regularly write articles on [Hashnode](https://ajaydhangar49.hashnode.dev/)
 
 <br />
 
