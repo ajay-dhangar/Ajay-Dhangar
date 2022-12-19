@@ -112,5 +112,6 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ajay-dhangar&theme=dark" alt="ajay-dhangar" /></p>
 
 </p><br>
+<hr>
 
 <div align="center">Generated using <a href="https://ajay-dhangar.github.io/Responsive-portfolio-website.github.io/#home" target="_blank">Ajay-Dhangar</a></div>
