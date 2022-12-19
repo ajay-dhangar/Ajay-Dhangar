@@ -63,9 +63,10 @@
 <a href="https://twitter.com/ajaydha27250016" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ajaydha27250016" height="30" width="40" /></a>
 <a href="https://medium.com/@ajaydhangar49" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ajaydhangar49" height="30" width="40" /></a>
 
-<br />
+<br>
+      
 ## Show some love      
-<br />
+
 <a href="https://github.com/https://github.com/Ajay-Dhangar" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
