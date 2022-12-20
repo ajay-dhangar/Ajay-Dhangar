@@ -10,7 +10,7 @@
 
       
 <div align="left">
-            <a href="7024592105@paytm" target="_blank" style="display: inline-block;">
+            <a href="https://p.paytm.me/xCTH/xixnpw7q" target="_blank" style="display: inline-block;">
                 <img
                     src="https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat-square&logo=paypal" 
                     align="left"
