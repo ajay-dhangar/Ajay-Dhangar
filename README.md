@@ -7,9 +7,11 @@
 <a href="https://app.daily.dev/ajaydhangar49"><img src="https://api.daily.dev/devcards/2c80fe95babf499eaaac3762aa0bd80d.png?r=3r9" width="400" align="right" alt="Ajay Dhangar's Dev Card"/></a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajay-dhangar&label=Profile%20views&color=0e75b6&style=flat" alt="ajay-dhangar" /> </p>
-
       
 <br />
+
+<a rel="me" href="https://hachyderm.io/@ajaydhangar49">Mastodon</a>
+
 <br>
 
 <p align="left"> <a href="https://twitter.com/ajaydha27250016" target="blank"><img src="https://img.shields.io/twitter/follow/ajaydha27250016?logo=twitter&style=for-the-badge" alt="ajaydha27250016" /></a> </p>
