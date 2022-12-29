@@ -10,7 +10,7 @@
       
 <br />
 
-<a rel="me" href="https://hachyderm.io/@ajaydhangar49">Mastodon</a>
+[![BCH compliance](https://bettercodehub.com/edge/badge/Ajay-Dhangar/advice-app?branch=main)](https://bettercodehub.com/)
 
 <br>
 
