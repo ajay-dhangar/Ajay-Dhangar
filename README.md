@@ -168,8 +168,5 @@
 <hr>
 <br>
 
-## Pay me or buy some product
-Web logo in png [pay](https://buy.stripe.com/test_6oE3cTa7Z5wJ3n28ww)
-
 <hr>
 <div align="center">Made with ❤️ by <a href="https://ajay-dhangar.github.io/Responsive-portfolio-website.github.io/#home" target="_blank">Ajay-Dhangar</a></div>
