@@ -12,9 +12,7 @@
 
 [![BCH compliance](https://bettercodehub.com/edge/badge/Ajay-Dhangar/advice-app?branch=main)](https://bettercodehub.com/)
 
-<br>
 
-<p align="left"> <a href="https://twitter.com/ajaydha27250016" target="blank"><img src="https://img.shields.io/twitter/follow/ajaydha27250016?logo=twitter&style=for-the-badge" alt="ajaydha27250016" /></a> </p>
 
 <br>
 
