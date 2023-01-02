@@ -10,7 +10,7 @@
       
 <br />
 
-[![BCH compliance](https://bettercodehub.com/edge/badge/Ajay-Dhangar/advice-app?branch=main)](https://bettercodehub.com/)
+<!-- [![BCH compliance](https://bettercodehub.com/edge/badge/Ajay-Dhangar/advice-app?branch=main)](https://bettercodehub.com/) -->
 
 
 
