@@ -7,17 +7,14 @@
 <a href="https://app.daily.dev/ajaydhangar49"><img src="https://api.daily.dev/devcards/2c80fe95babf499eaaac3762aa0bd80d.png?r=3r9" width="300" height="400" align="right" alt="Ajay Dhangar's Dev Card"/></a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajay-dhangar&label=Profile%20views&color=0e75b6&style=flat" alt="ajay-dhangar" /> </p>
-      
-<br />
+ 
+[![YouTube](https://img.shields.io/badge/YouTube_Subscriber-1.2K-orange.svg?style=flat-square)](https://www.youtube.com/channel/UCRQBq8dfTEZfIMxmq-Ba9Tw)
 
-<!-- [![BCH compliance](https://bettercodehub.com/edge/badge/Ajay-Dhangar/advice-app?branch=main)](https://bettercodehub.com/) -->
+ [![BCH compliance](https://img.shields.io/badge/Better_Code-8/10-orange.svg?style=flat-square)](https://bettercodehub.com/)
 
 [<img alt="open collective badge" src="https://opencollective.com/twitter-bio/tiers/badge.svg" />](https://opencollective.com/twitter-bio)
 
 <object type="image/svg+xml" data="https://opencollective.com/twitter-bio/tiers/backer.svg?avatarHeight=36&width=600"></object>
-
-<a href="https://www.buymeacoffee.com/ajaydhangar" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"/></a>
-
 
 <br>
 
@@ -36,6 +33,8 @@
 - 📫 How to reach me **ajaydhangar49@gmail.com**
 
 - 📃 I regularly write articles on [Hashnode](https://ajaydhangar49.hashnode.dev/)
+
+
 
 <br />
 <hr>
@@ -125,7 +124,9 @@
 </a>
 <a href="https://www.behance.net/ajaydhangar49" target="_blank">
 <img src=https://img.shields.io/badge/behance-%23191919.svg?&style=for-the-badge&logo=behance&logoColor=white alt=behance style="margin-bottom: 5px;" />
-</a>  
+</a>      
+<a href="https://www.buymeacoffee.com/ajaydhangar" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"/></a>
+
   
 <br />
 
@@ -145,7 +146,7 @@
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
-<a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/99037494/197686110-e43dc848-1dec-4b3e-aeb2-abeeb352c8e9.png" alt="express" width="95" height="35"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
+<a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Ajay-Dhangar/images/main/logo/Exress.png" alt="express" width="100" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
 <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
