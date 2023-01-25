@@ -8,7 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajay-dhangar&label=Profile%20views&color=0e75b6&style=flat" alt="ajay-dhangar" /> </p>
  
-[![YouTube](https://img.shields.io/badge/YouTube_Subscriber-1.2K-orange.svg?style=flat-square)](https://www.youtube.com/channel/UCRQBq8dfTEZfIMxmq-Ba9Tw)
+[![YouTube](https://img.shields.io/badge/YouTube_Subscriber-1.11K-orange.svg?style=flat-square)](https://www.youtube.com/channel/UCRQBq8dfTEZfIMxmq-Ba9Tw)
 
  [![BCH compliance](https://img.shields.io/badge/Better_Code-8/10-orange.svg?style=flat-square)](https://bettercodehub.com/)
 
