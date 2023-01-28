@@ -4,10 +4,11 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px" height="30px">, I'm Ajay Dhangar.</h1>
 <h3 align="center">A passionate Full-stack web developer from India</h3>
 
-<a href="https://app.daily.dev/ajaydhangar49"><img src="https://api.daily.dev/devcards/2c80fe95babf499eaaac3762aa0bd80d.png?r=3r9" width="400" height="500" align="right" alt="Ajay Dhangar's Dev Card"/></a>
+<a href="https://app.daily.dev/ajaydhangar49"><img src="https://api.daily.dev/devcards/2c80fe95babf499eaaac3762aa0bd80d.png?r=3r9" width="400" height="450" align="right" alt="Ajay Dhangar's Dev Card"/></a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajay-dhangar&label=Profile%20views&color=0e75b6&style=flat" alt="ajay-dhangar" /> </p>
  
+<!--
 [![YouTube](https://img.shields.io/badge/YouTube_Subscriber-1.11K-orange.svg?style=flat-square)](https://www.youtube.com/channel/UCRQBq8dfTEZfIMxmq-Ba9Tw)
 
  [![BCH compliance](https://img.shields.io/badge/Better_Code-8/10-orange.svg?style=flat-square)](https://bettercodehub.com/)
@@ -21,6 +22,8 @@
 [![Medium](https://img.shields.io/badge/Medium-31-orange.svg?style=flat-square)](https://ajaydhangar49.medium.com/)
 
 <object type="image/svg+xml" data="https://opencollective.com/twitter-bio/tiers/backer.svg?avatarHeight=36&width=600"></object>
+
+-->
 
 <br>
 
