@@ -14,7 +14,7 @@
 
 [<img alt="open collective badge" src="https://opencollective.com/twitter-bio/tiers/badge.svg" />](https://opencollective.com/twitter-bio)
 
-[![FeedingTrends](https://img.shields.io/badge/Feeding_Trends-19-orange.svg?style=flat-square)](https://feedingtrends.com/u/ajaydhangar49)
+[![FeedingTrends](https://img.shields.io/badge/Feeding_Trends-21-orange.svg?style=flat-square)](https://feedingtrends.com/u/ajaydhangar49)
 
 [![Hashnode](https://img.shields.io/badge/Hashnode-6-orange.svg?style=flat-square)](https://ajaydhangar49.hashnode.dev/)
 
