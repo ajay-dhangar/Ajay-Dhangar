@@ -131,8 +131,6 @@
 <a href="https://www.behance.net/ajaydhangar49" target="_blank">
 <img src=https://img.shields.io/badge/behance-%23191919.svg?&style=for-the-badge&logo=behance&logoColor=white alt=behance style="margin-bottom: 5px;" />
 </a>      
-<a href="https://www.buymeacoffee.com/ajaydhangar" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"/></a>
-
   
 <br />
 
@@ -183,7 +181,6 @@
 
 </p><br>
 <hr>
-<br>
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/ajaydhangar"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ajaydhangar" /></a><a href="https://ko-fi.com/ajaydhangar"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="ajaydhangar" /></a></p><br><br>
