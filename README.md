@@ -170,19 +170,26 @@
 <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/> </a>
 <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
 
-<br />
-
 ## Profile Status:
 
 <p align="center" width="100%">
 <img align="left" width="65%" src="https://github-readme-stats.vercel.app/api?username=ajay-dhangar&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" />
 <img align="left" width="27%"   src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajay-dhangar&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)](https://github.com/ajay-dhangar/github-readme-stats" />
 
+<br/>
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ajay-dhangar&theme=dark" alt="ajay-dhangar" /></p>
 
 </p><br>
+
+### My GitHub Summary:
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ajay-dhangar&theme=monokai)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ajay-dhangar&theme=monokai)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ajay-dhangar&theme=monokai)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ajay-dhangar&theme=monokai&utcOffset=5)
+
 <hr>
 
 <h3 align="left">Support:</h3>
