@@ -4,26 +4,11 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px" height="30px">, I'm Ajay Dhangar.</h1>
 <h3 align="center">A passionate Full-stack web developer from India</h3>
 
-<a href="https://app.daily.dev/ajaydhangar49"><img src="https://api.daily.dev/devcards/2c80fe95babf499eaaac3762aa0bd80d.png?r=3r9" width="400" height="450" align="right" alt="Ajay Dhangar's Dev Card"/></a>
+<a href="https://app.daily.dev/ajaydhangar49"><img src="https://user-images.githubusercontent.com/99037494/216559689-148bc086-9fec-407d-b361-580c18c4e11a.png?r=3r9" width="400" height="500" align="right" alt="Ajay Dhangar's Dev Card"/></a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajay-dhangar&label=Profile%20views&color=0e75b6&style=flat" alt="ajay-dhangar" /> </p>
  
-<!--
-[![YouTube](https://img.shields.io/badge/YouTube_Subscriber-1.11K-orange.svg?style=flat-square)](https://www.youtube.com/channel/UCRQBq8dfTEZfIMxmq-Ba9Tw)
 
- [![BCH compliance](https://img.shields.io/badge/Better_Code-8/10-orange.svg?style=flat-square)](https://bettercodehub.com/)
-
-[<img alt="open collective badge" src="https://opencollective.com/twitter-bio/tiers/badge.svg" />](https://opencollective.com/twitter-bio)
-
-[![FeedingTrends](https://img.shields.io/badge/Feeding_Trends-21-orange.svg?style=flat-square)](https://feedingtrends.com/u/ajaydhangar49)
-
-[![Hashnode](https://img.shields.io/badge/Hashnode-6-orange.svg?style=flat-square)](https://ajaydhangar49.hashnode.dev/)
-
-[![Medium](https://img.shields.io/badge/Medium-31-orange.svg?style=flat-square)](https://ajaydhangar49.medium.com/)
-
-<object type="image/svg+xml" data="https://opencollective.com/twitter-bio/tiers/backer.svg?avatarHeight=36&width=600"></object>
-
--->
 
 <br>
 
@@ -43,9 +28,31 @@
 
 - 📃 I regularly write articles on [Hashnode](https://ajaydhangar49.hashnode.dev/)
 
-
-
 <br />
+ <a href="https://www.youtube.com/channel/UCRQBq8dfTEZfIMxmq-Ba9Tw" target="_blank">
+<img src=https://img.shields.io/badge/YouTube_Subscriber-1.11K-orange.svg?style=flat-square=behance&logoColor=white alt=youtube style="margin-bottom: 5px;" />
+</a> 
+  
+ <a href="https://bettercodehub.com/" target="_blank">
+<img src=https://img.shields.io/badge/Better_Code-8/10-orange.svg?style=flat-square=behance&logoColor=white alt=bettercodehub style="margin-bottom: 5px;" />
+</a> 
+
+<a href="https://opencollective.com/twitter-bio" target="_blank">
+<img src=https://opencollective.com/twitter-bio/tiers/badge.svg alt=opencollective style="margin-bottom: 5px;" />
+</a> 
+ 
+<a href="https://feedingtrends.com/u/ajaydhangar49" target="_blank">
+<img src=https://img.shields.io/badge/Feeding_Trends-31-orange.svg?style=flat-square=behance&logoColor=white alt=feedingtrend style="margin-bottom: 5px;" />
+</a> 
+
+<a href="https://ajaydhangar49.hashnode.dev/" target="_blank">
+<img src=https://img.shields.io/badge/Hashnode-6-orange.svg?style=flat-square=behance&logoColor=white alt=hashnode style="margin-bottom: 5px;" />
+</a> 
+
+<a href="https://ajaydhangar49.medium.com/" target="_blank">
+<img src=https://img.shields.io/badge/Medium-31-orange.svg?style=flat-square=behance&logoColor=white alt=medium style="margin-bottom: 5px;" />
+</a> 
+
 <hr>
 
 ## GitHub Skyline
@@ -133,8 +140,9 @@
 </a>
 <a href="https://www.behance.net/ajaydhangar49" target="_blank">
 <img src=https://img.shields.io/badge/behance-%23191919.svg?&style=for-the-badge&logo=behance&logoColor=white alt=behance style="margin-bottom: 5px;" />
-</a>      
-  
+</a> 
+
+
 <br />
 
 ***
