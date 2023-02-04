@@ -30,7 +30,7 @@
 
 <br />
  <a href="https://www.youtube.com/channel/UCRQBq8dfTEZfIMxmq-Ba9Tw" target="_blank">
-<img src=https://img.shields.io/badge/YouTube_Subscriber-1.11K-orange.svg?style=flat-square=behance&logoColor=white alt=youtube style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/YouTube_Subscriber-1.12K-orange.svg?style=flat-square=behance&logoColor=white alt=youtube style="margin-bottom: 5px;" />
 </a> 
   
  <a href="https://bettercodehub.com/" target="_blank">
@@ -88,7 +88,7 @@
 <a href="https://www.instagram.com/aj.edu.in/"><img align="left" alt="Dhruba's Instagram" width="32px" src="https://github.com/dhruba-datta/dhruba-datta/blob/main/assets/instagram.svg" />
 </a>
 <a href="https://fb.com/profile.php?id=100078316657152" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="profile.php?id=100078316657152" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@ajzerocoding4737" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="aj zero coding" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@ajay-dhangar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="aj zero coding" height="30" width="40" /></a>
 <a href="https://twitter.com/ajaydha27250016" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ajaydha27250016" height="30" width="40" /></a>
 <a href="https://medium.com/@ajaydhangar49" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ajaydhangar49" height="30" width="40" /></a>
 
