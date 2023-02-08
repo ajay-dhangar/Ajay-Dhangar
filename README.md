@@ -8,7 +8,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajay-dhangar&label=Profile%20views&color=0e75b6&style=flat" alt="ajay-dhangar" /> </p>
  
-
+<a href="https://buy.stripe.com/test_8wM16q3SV2Qx5zOcMN" target="_blank">
+<img src=https://img.shields.io/badge/Sponsor-Me-orange.svg?style=flat-square=behance&logoColor=white alt=youtube style="margin-bottom: 5px;" />
+</a>
 
 <br>
 
