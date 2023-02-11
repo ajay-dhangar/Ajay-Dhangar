@@ -10,9 +10,13 @@
  
 <a href="https://buy.stripe.com/test_8wM16q3SV2Qx5zOcMN" target="_blank">
 <img src=https://img.shields.io/badge/Sponsor-Me-orange.svg?style=flat-square=behance&logoColor=white alt=youtube style="margin-bottom: 5px;" />
+</a>     
+ 
+ <a href="https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7030185990174515200" target="_blank">
+<img src=https://img.shields.io/badge/Subscribe_On_LinkedIn-2-blue.svg?style=flat-square=behance&logoColor=white alt=youtube style="margin-bottom: 5px;" />
 </a>
-
-<br>
+    
+<br> 
 
 - 🔭 I’m currently working on [Full Stack Web Development ](https://ajay-dhangar.github.io/Aj-Zero-Coding-2.o.github.io/).
 
