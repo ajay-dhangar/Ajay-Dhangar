@@ -8,7 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajay-dhangar&label=Profile%20views&color=0e75b6&style=flat" alt="ajay-dhangar" /> </p>
  
-<a href="https://buy.stripe.com/test_8wM16q3SV2Qx5zOcMN" target="_blank">
+<a href="https://github.com/sponsors/Ajay-Dhangar/" target="_blank">
 <img src=https://img.shields.io/badge/Sponsor-Me-orange.svg?style=flat-square=behance&logoColor=white alt=youtube style="margin-bottom: 5px;" />
 </a>     
  
@@ -38,22 +38,25 @@
  <a href="https://www.youtube.com/channel/UCRQBq8dfTEZfIMxmq-Ba9Tw" target="_blank">
 <img src=https://img.shields.io/badge/YouTube_Subscriber-1.12K-orange.svg?style=flat-square=behance&logoColor=white alt=youtube style="margin-bottom: 5px;" />
 </a> 
-  
+<!-- =========== Batter Code Hub ================ -->
+<!--   
  <a href="https://bettercodehub.com/" target="_blank">
 <img src=https://img.shields.io/badge/Better_Code-8/10-orange.svg?style=flat-square=behance&logoColor=white alt=bettercodehub style="margin-bottom: 5px;" />
-</a> 
-
-<a href="https://opencollective.com/twitter-bio" target="_blank">
+</a>  -->
+<!-- =========== Open collective ================ -->
+<!-- <a href="https://opencollective.com/twitter-bio" target="_blank">
 <img src=https://opencollective.com/twitter-bio/tiers/badge.svg alt=opencollective style="margin-bottom: 5px;" />
-</a> 
+</a>  -->
  
-<a href="https://feedingtrends.com/u/ajaydhangar49" target="_blank">
+ <!-- =========== Feeding Trands ================ -->
+ 
+<!-- <a href="https://feedingtrends.com/u/ajaydhangar49" target="_blank">
 <img src=https://img.shields.io/badge/Feeding_Trends-31-orange.svg?style=flat-square=behance&logoColor=white alt=feedingtrend style="margin-bottom: 5px;" />
-</a> 
-
-<a href="https://ajaydhangar49.hashnode.dev/" target="_blank">
+</a>  -->
+<!-- =========== Hashnode ================ -->
+<!-- <a href="https://ajaydhangar49.hashnode.dev/" target="_blank">
 <img src=https://img.shields.io/badge/Hashnode-6-orange.svg?style=flat-square=behance&logoColor=white alt=hashnode style="margin-bottom: 5px;" />
-</a> 
+</a>  -->
 
 <a href="https://ajaydhangar49.medium.com/" target="_blank">
 <img src=https://img.shields.io/badge/Medium-31-orange.svg?style=flat-square=behance&logoColor=white alt=medium style="margin-bottom: 5px;" />
@@ -196,20 +199,20 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ajay-dhangar&theme=dark" alt="ajay-dhangar" /></p>
 
 </p><br>
-
+<!-- 
 ### My GitHub Summary:
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ajay-dhangar&theme=monokai)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ajay-dhangar&theme=monokai)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ajay-dhangar&theme=monokai)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ajay-dhangar&theme=monokai&utcOffset=5)
-
+ -->
 <hr>
-
+<!-- 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/ajaydhangar"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ajaydhangar" /></a><a href="https://ko-fi.com/ajaydhangar"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="ajaydhangar" /></a></p><br><br>
 
-<hr />
+<hr /> -->
 
 <br />
 
