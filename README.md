@@ -11,7 +11,9 @@
 <a href="https://linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=ajay-dhangar" target="_blank">
 <img src=https://img.shields.io/badge/𝙵𝚘𝚕𝚕𝚘𝚠_𝙼𝚎_𝙾𝚗-𝙻𝚒𝚗𝚔𝚎𝚍𝙸𝚗-orange.svg?style=flat-square=behance&logoColor=white alt=youtube style="margin-bottom: 5px;" />
 </a>
-<𝚋𝚛/>
+
+<br>
+<br>
  <a href="https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7030185990174515200" target="_blank">
 <img src=https://img.shields.io/badge/Subscribe_On_LinkedIn-557-blue.svg?style=flat-square=behance&logoColor=white alt=youtube style="margin-bottom: 5px;" />
 </a>
