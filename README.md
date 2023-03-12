@@ -8,10 +8,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajay-dhangar&label=Profile%20views&color=0e75b6&style=flat" alt="ajay-dhangar" /> </p>
  
-<a href="https://github.com/sponsors/Ajay-Dhangar/" target="_blank">
-<img src=https://img.shields.io/badge/Sponsor-Me-orange.svg?style=flat-square=behance&logoColor=white alt=youtube style="margin-bottom: 5px;" />
-</a>     
- 
+<a href="https://linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=ajay-dhangar" target="_blank">
+<img src=https://img.shields.io/badge/𝙵𝚘𝚕𝚕𝚘𝚠_𝙼𝚎_𝙾𝚗-𝙻𝚒𝚗𝚔𝚎𝚍𝙸𝚗-orange.svg?style=flat-square=behance&logoColor=white alt=youtube style="margin-bottom: 5px;" />
+</a>
+<𝚋𝚛/>
  <a href="https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7030185990174515200" target="_blank">
 <img src=https://img.shields.io/badge/Subscribe_On_LinkedIn-557-blue.svg?style=flat-square=behance&logoColor=white alt=youtube style="margin-bottom: 5px;" />
 </a>
