@@ -1,4 +1,8 @@
-![Ajay Dhangar](https://user-images.githubusercontent.com/99037494/199245423-3d5f027c-6254-4ecf-9624-43fc4e532bb1.png)
+<!-- ![Ajay Dhangar](https://user-images.githubusercontent.com/99037494/199245423-3d5f027c-6254-4ecf-9624-43fc4e532bb1.png)
+
+ -->
+ 
+ ![Ajay](https://user-images.githubusercontent.com/99037494/226809341-e38457ff-6291-4e19-9e20-b96c70632264.png)
 
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px" height="30px">, I'm Ajay Dhangar.</h1>
@@ -65,8 +69,6 @@
 </a> 
 
 <hr>
-
-![banner](https://user-images.githubusercontent.com/99037494/226809341-e38457ff-6291-4e19-9e20-b96c70632264.png)
 
 
 ## GitHub Skyline
