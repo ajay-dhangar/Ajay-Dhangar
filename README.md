@@ -24,13 +24,13 @@
     
 <br> 
 
-- 🔭 I’m currently working on [Full Stack Web Development ](https://ajay-dhangar.github.io/Aj-Zero-Coding-2.o.github.io/).
+- 🔭 I’m currently working on [Full Stack Web Development ](#).
 
 - 🌱 I’m currently learning **JavaScript, DSA, MERN, React, etc.**
 
-- 👯 I’m looking to collaborate on [Web develoment](https://github.com/Ajay-Dhangar/Aj_Zero_Coding.github.io).
+- 👯 I’m looking to collaborate on [Web develoment](#).
 
-- 👨‍💻 All of my projects are available at [My portfolio Website](https://ajay-dhangar.github.io/Responsive-portfolio-website.github.io/#about).
+- 👨‍💻 All of my projects are available at [My portfolio Website](https://ajay-dhangar.github.io/).
 
 - 📝 I regularly write articles on [medium.com](https://medium.com/@ajaydhangar49)
 
