@@ -8,7 +8,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px" height="30px">, I'm Ajay Dhangar.</h1>
 <h3 align="center">A passionate Full-stack web developer from India</h3>
 
-<a href="https://app.daily.dev/ajaydhangar49"><img src="https://user-images.githubusercontent.com/99037494/216559689-148bc086-9fec-407d-b361-580c18c4e11a.png?r=3r9" width="400" height="500" align="right" alt="Ajay Dhangar's Dev Card"/></a>
+<a href="https://app.daily.dev/ajaydhangar49"><img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif"  height="500" width="400" align="right" alt="Ajay Dhangar's Dev Card"/></a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajay-dhangar&label=Profile%20views&color=0e75b6&style=flat" alt="ajay-dhangar" /> </p>
  
