@@ -76,15 +76,34 @@
 [![Watch the video](https://user-images.githubusercontent.com/99037494/211723237-31186fb0-f216-4d5c-aa84-26b5c54ada10.png)](https://skyline.github.com/ajay-dhangar/2022)
 
 <hr>
-
+<!--
 ## Coding  Status :
 
 <br />
-
+ 
 <p align="left"> <img align="center" src="https://leetcode-stats.vercel.app/api?username=ajaydhangar49&theme=light" alt="ajay-dhangar" /> 
  
 <br />
-  
+   -->
+<h1 align="center"> Projects </h1>
+<table align="center">
+ <tr>
+  <th>No.</th>
+  <th>Title</th>
+  <th>Describe</th>
+  <th>Preview Link</th>
+  <th>Source Link</th>
+  <th>Video</th>
+ </tr>
+ <tr>
+  <td>1.</td>
+  <td>YouTube Clone</td>
+  <td><a href="https://github.com/Ajay-Dhangar/youtube_clone/blob/main/README.md">Click</a></td>
+  <td><a href="https://my-youtube-ajay.vercel.app/">Click</a></td>
+  <td><a href="https://github.com/Ajay-Dhangar/youtube_clone">Click</a></td>
+  <td><a href="https://youtu.be/_IT3uO637bg">Click</a></td>
+ </tr> 
+</table>
 
 ## Coding Profile:
 
