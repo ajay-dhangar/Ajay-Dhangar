@@ -87,6 +87,7 @@
    -->
 <h1 align="center"> Projects </h1>
 <table align="center">
+<!-- Projects  -->
  <tr>
   <th>No.</th>
   <th>Title</th>
@@ -95,6 +96,9 @@
   <th>Source Link</th>
   <th>Video</th>
  </tr>
+ 
+<!-- Project-1  -->
+ 
  <tr>
   <td>1.</td>
   <td>YouTube Clone</td>
@@ -103,6 +107,58 @@
   <td><a href="https://github.com/Ajay-Dhangar/youtube_clone">Click</a></td>
   <td><a href="https://youtu.be/_IT3uO637bg">Click</a></td>
  </tr> 
+ 
+<!-- Project-2  -->
+ 
+ <tr>
+  <td>2.</td>
+  <td>Digital Clock</td>
+  <td><a href="https://github.com/Ajay-Dhangar/digital-clock#readme">Click</a></td>
+  <td><a href="https://ajay-dhangar.github.io/digital-clock/">Click</a></td>
+  <td><a href="https://github.com/Ajay-Dhangar/digital-clock">Click</a></td>
+  <td><a href="#">Coming Soon...</a></td>
+ </tr> 
+ 
+ <!-- Project-3  -->
+ 
+ <tr>
+  <td>3.</td>
+  <td>Twitter Bio</td>
+  <td><a href="https://github.com/Ajay-Dhangar/twitter-bio#readme">Click</a></td>
+  <td><a href="https://twitter-bio-ajay.vercel.app/">Click</a></td>
+  <td><a href="https://github.com/Ajay-Dhangar/twitter-bio">Click</a></td>
+  <td><a href="#">Coming Soon...</a></td>
+ </tr> 
+<!-- Project-4  -->
+ <tr>
+  <td>4.</td>
+  <td>slack Bot</td>
+  <td><a href="https://github.com/Ajay-Dhangar/hacker-news-slack-bot#readme">Click</a></td>
+  <td><a href="https://hacker-news-slack-bot-git-main-aj-zero-coding.vercel.app/">Click</a></td>
+  <td><a href="https://github.com/Ajay-Dhangar/hacker-news-slack-bot">Click</a></td>
+  <td><a href="#">Coming Soon...</a></td>
+ </tr> 
+ 
+ <!-- Project-5  -->
+ 
+ <tr>
+  <td>5.</td>
+  <td>Quiz App</td>
+  <td><a href="https://github.com/Ajay-Dhangar/Quiz-app#readme">Click</a></td>
+  <td><a href="https://quiz-app-ajay-dhangar.vercel.app/">Click</a></td>
+  <td><a href="https://github.com/Ajay-Dhangar/Quiz-app">Click</a></td>
+  <td><a href="#">Coming Soon...</a></td>
+ </tr> 
+ 
+ <!-- Project-6  -->
+ 
+ <!-- Project-7  -->
+ 
+ <!-- Project-8  -->
+ 
+ <!-- Project-9  -->
+ 
+ <!-- Project-10  -->
 </table>
 
 ## Coding Profile:
