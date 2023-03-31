@@ -152,7 +152,25 @@
  
  <!-- Project-6  -->
  
+ <tr>
+  <td>6.</td>
+  <td>Slack Bot</td>
+  <td><a href="https://github.com/Ajay-Dhangar/hacker-news-slack-bot/blob/main/README.md">Click</a></td>
+  <td><a href="https://hacker-news-slack-bot-git-main-aj-zero-coding.vercel.app/">Click</a></td>
+  <td><a href="https://github.com/Ajay-Dhangar/hacker-news-slack-bot">Click</a></td>
+  <td><a href="#">Coming Soon...</a></td>
+ </tr> 
+ 
  <!-- Project-7  -->
+ 
+ <tr>
+  <td>7.</td>
+  <td>Onelink</td>
+  <td><a href="https://github.com/Ajay-Dhangar/onelink#readme">Click</a></td>
+  <td><a href="https://onelink-ajay.vercel.app/">Click</a></td>
+  <td><a href="https://github.com/Ajay-Dhangar/onelink">Click</a></td>
+  <td><a href="#">Coming Soon...</a></td>
+ </tr> 
  
  <!-- Project-8  -->
  
