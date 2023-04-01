@@ -38,7 +38,7 @@
 
 - 📫 How to reach me **ajaydhangar49@gmail.com**
 
-- 📃 I regularly write articles on [Hashnode](https://ajaydhangar49.hashnode.dev/)
+- 📃 I regularly write articles on [Hashnode](https://ajaydhangar49.hashnode.dev/)z
 
 <br />
  <a href="https://www.youtube.com/channel/UCRQBq8dfTEZfIMxmq-Ba9Tw/?sub_confirmation=1" target="_blank">
@@ -313,6 +313,11 @@
 <p><a href="https://www.buymeacoffee.com/ajaydhangar"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ajaydhangar" /></a><a href="https://ko-fi.com/ajaydhangar"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="ajaydhangar" /></a></p><br><br>
 
 <hr /> -->
+<br />
+
+<p align="center">
+<a rel="license" href="https://github.com/Ajay-Dhangar"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
+</p>
 
 <br />
 
