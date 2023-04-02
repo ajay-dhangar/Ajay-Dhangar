@@ -101,11 +101,11 @@
  
  <tr>
   <td>1.</td>
-  <td>YouTube Clone</td>
-  <td><a href="https://github.com/Ajay-Dhangar/youtube_clone/blob/main/README.md">Click</a></td>
-  <td><a href="https://my-youtube-ajay.vercel.app/">Click</a></td>
-  <td><a href="https://github.com/Ajay-Dhangar/youtube_clone">Click</a></td>
-  <td><a href="https://youtu.be/_IT3uO637bg">Click</a></td>
+  <td>CodeMastermindHQ</td>
+  <td><a href="https://github.com/Ajay-Dhangar/CodeMastermindHQ#readme">Click</a></td>
+  <td><a href="https://codemastermindhq.vercel.app/">Click</a></td>
+  <td><a href="https://github.com/Ajay-Dhangar/CodeMastermindHQ">Click</a></td>
+  <td><a href="#">Comming soon...</a></td>
  </tr> 
  
 <!-- Project-2  -->
@@ -154,11 +154,11 @@
  
  <tr>
   <td>6.</td>
-  <td>Slack Bot</td>
-  <td><a href="https://github.com/Ajay-Dhangar/hacker-news-slack-bot/blob/main/README.md">Click</a></td>
-  <td><a href="https://hacker-news-slack-bot-git-main-aj-zero-coding.vercel.app/">Click</a></td>
-  <td><a href="https://github.com/Ajay-Dhangar/hacker-news-slack-bot">Click</a></td>
-  <td><a href="#">Coming Soon...</a></td>
+  <td>YouTube Clone</td>
+  <td><a href="https://github.com/Ajay-Dhangar/youtube_clone/blob/main/README.md">Click</a></td>
+  <td><a href="https://my-youtube-ajay.vercel.app/">Click</a></td>
+  <td><a href="https://github.com/Ajay-Dhangar/youtube_clone">Click</a></td>
+  <td><a href="https://youtu.be/_IT3uO637bg">Watching Now</a></td>
  </tr> 
  
  <!-- Project-7  -->
