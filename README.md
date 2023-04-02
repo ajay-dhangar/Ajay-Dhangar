@@ -390,4 +390,4 @@
 
 <br />
 
-<div align="center">Made with ❤️ by <a href="https://ajay-dhangar.github.io/Responsive-portfolio-website.github.io/#home" target="_blank">Ajay-Dhangar</a></div>
+<div align="center">Made with ❤️ by <a href="https://ajay-dhangar.github.io" target="_blank">Ajay-Dhangar</a></div>
