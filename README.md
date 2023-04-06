@@ -414,6 +414,24 @@
 
 <a href="https://skyline.github.com/ajay-dhangar/2022" target="_blank"><img src="https://user-images.githubusercontent.com/99037494/211723237-31186fb0-f216-4d5c-aa84-26b5c54ada10.png" align="center" alt="skyline"/></a>
 
+## Intro with Code
+
+```json
+{
+  "name": "Ajay Dhangar",
+  "title": "Software Developer",
+  "location": "India",
+  "skills": ["JavaScript", "React", "Node.js", "HTML", "CSS"],
+  "interests": ["Animation", "Web Development", "Open Source"],
+  "aboutMe": "I am a passionate software developer with a strong interest in animation and web development. I have experience in building modern web applications using JavaScript, React, and Node.js. I enjoy creating interactive and visually appealing user interfaces using CSS animations and transitions. I am also an advocate of open source software and actively contribute to the community. In my free time, you can find me exploring new technologies, working on side projects, or enjoying outdoor activities.",
+  "socialMedia": {
+    "github": "https://github.com/Ajay-Dhangar",
+    "linkedin": "https://www.linkedin.com/in/ajay-dhangar/",
+    "portfolio": "https://ajaydhangar.github.io/"
+  }
+}
+```
+
 <p align="center">
 <a rel="license" href="https://github.com/Ajay-Dhangar"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
 </p>
