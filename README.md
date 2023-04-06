@@ -2,7 +2,7 @@
 
  -->
  
- ![Ajay](https://user-images.githubusercontent.com/99037494/226809341-e38457ff-6291-4e19-9e20-b96c70632264.png)
+![Ajay](https://user-images.githubusercontent.com/99037494/226809341-e38457ff-6291-4e19-9e20-b96c70632264.png)
 
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px" height="30px">, I'm Ajay Dhangar.</h1>
@@ -71,9 +71,7 @@
 <hr>
 
 
-## GitHub Skyline
-
-[![Watch the video](https://user-images.githubusercontent.com/99037494/211723237-31186fb0-f216-4d5c-aa84-26b5c54ada10.png)](https://skyline.github.com/ajay-dhangar/2022)
+[![ajay-dhangar's StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=18530900)](https://stackoverflow.com/users/18530900/ajay-dhangar)
 
 <hr>
 <!--
@@ -85,6 +83,36 @@
  
 <br />
    -->
+   
+<h1 align="center"> Things I use on a daily basis </h1>
+
+<p align="left">  
+<a href="#">
+ <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=react&animation=spin&svgfill=15d8fe">  
+ </a>
+   <a href="#">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=typescript&svgfill=2d79c7">
+</a>
+  <a href="#">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=bootstrap&svgfill=8ed5fa">
+</a>
+ <a href="#">
+ <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=node.js&svgfill=659b60">
+</a>
+<a href="#">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=sass&svgfill=cd6799">
+</a>
+<a href="#">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=javascript&svgfill=f6df1c">
+</a>
+<a href="#">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=CSS3&svgfill=028dd1">
+</a>
+<a href="#">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=github">
+</a>
+</p> 
+ 
 <h1 align="center"> Projects </h1>
 <table align="center">
 <!-- Projects  -->
@@ -383,6 +411,8 @@
 
 <hr /> -->
 <br />
+
+<a href="https://skyline.github.com/ajay-dhangar/2022" target="_blank"><img src="https://user-images.githubusercontent.com/99037494/211723237-31186fb0-f216-4d5c-aa84-26b5c54ada10.png" align="center" alt="skyline"/></a>
 
 <p align="center">
 <a rel="license" href="https://github.com/Ajay-Dhangar"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
