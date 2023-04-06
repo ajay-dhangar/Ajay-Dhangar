@@ -1,0 +1,27 @@
+// Define a JavaScript object
+const person = {
+  name: 'Ajay Dhangar',
+  age: 22,
+  city: 'Mandsaur',
+  hobbies: ['reading', 'development', 'coding'],
+  isStudent: true
+};
+
+// Convert JavaScript object to JSON string
+const jsonString = JSON.stringify(person);
+
+console.log(jsonString);
+// Output: {"name":"John Doe","age":30,"city":"New York","hobbies":["reading","traveling","coding"],"isStudent":false}
+
+// Parse JSON string to JavaScript object
+const parsedPerson = JSON.parse(jsonString);
+
+console.log(parsedPerson);
+// Output: 
+// {
+//   name: 'Ajay Dhangar',
+//   age: 22,
+//   city: 'Mandsaur',
+//   hobbies: ['reading', 'development', 'coding'],
+//   isStudent: true
+// }
