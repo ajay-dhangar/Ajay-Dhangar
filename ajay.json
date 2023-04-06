@@ -1,18 +1,6 @@
-
-const person = {
-  name: 'Ajay Dhangar',
-  age: 22,
-  city: 'Mandsaur',
-  hobbies: ['reading', 'development', 'coding'],
-  isStudent: true
-};
-
-
-const jsonString = JSON.stringify(person);
-
-console.log(jsonString);
-
-const parsedPerson = JSON.parse(jsonString);
-
-console.log(parsedPerson);
-
+{
+  "userId": 1,
+  "id": 1,
+  "title": "Ajay",
+  "completed": true
+}
