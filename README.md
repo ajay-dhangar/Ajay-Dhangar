@@ -18,8 +18,8 @@
 
 <br>
 <br>
- <a href="https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7030185990174515200" target="_blank">
-<img src=https://img.shields.io/badge/Subscribe_On_LinkedIn-557-blue.svg?style=flat-square=behance&logoColor=white alt=youtube style="margin-bottom: 5px;" />
+ <a href="https://paytm.me/dFv-Ft8" target="_blank">
+<img src=https://img.shields.io/badge/Support_Me-12-blue.svg?style=flat-square=behance&logoColor=white alt=youtube style="margin-bottom: 5px;" />
 </a>
     
 <br> 
