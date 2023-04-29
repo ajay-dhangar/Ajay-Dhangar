@@ -206,7 +206,14 @@
  
  <!-- Project-10  -->
 </table>
+<br/><hr/>
 
+<h1 align="center"> Quiz </h1>
+<table align="center">
+ <tr><th>No.</th><th>Topics</th><th>Links</th></tr>
+ <tr><td>1</td><td>Web Development</td><td>[Click](https://forms.office.com/r/S16Thsum7J)</td></tr>
+</table>
+<br/><hr/>
 ## Coding Profile:
 
 <a href="https://www.leetcode.com/ajaydhangar49" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ajaydhangar49" height="30" width="40" /></a>
