@@ -211,7 +211,7 @@
 <h1 align="center"> Quiz </h1>
 <table align="center">
  <tr><th>No.</th><th>Topics</th><th>Links</th></tr>
- <tr><td>1</td><td>Web Development</td><td>[Click](https://forms.office.com/r/S16Thsum7J)</td></tr>
+ <tr><td>1</td><td>Web Development</td><td><a href="https://forms.office.com/r/S16Thsum7J">Quiz Click</a></td></tr>
 </table>
 <br/><hr/>
 ## Coding Profile:
