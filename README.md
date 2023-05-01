@@ -87,30 +87,31 @@
 <h1 align="center"> Things I use on a daily basis </h1>
 
 <p align="left">  
-<a href="#">
+<a href="https://react.dev/">
  <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=react&animation=spin&svgfill=15d8fe">  
  </a>
-   <a href="#">
+   <a href="https://www.typescriptlang.org/">
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=typescript&svgfill=2d79c7">
 </a>
-  <a href="#">
+  <a href="https://getbootstrap.com/">
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=bootstrap&svgfill=8ed5fa">
 </a>
- <a href="#">
+ <a href="https://nodejs.org/en">
  <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=node.js&svgfill=659b60">
 </a>
-<a href="#">
+<a href="https://sass-lang.com/">
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=sass&svgfill=cd6799">
 </a>
-<a href="#">
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=javascript&svgfill=f6df1c">
 </a>
-<a href="#">
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=CSS3&svgfill=028dd1">
 </a>
-<a href="#">
+<a href="https://github.com/">
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=github">
 </a>
+ 
 </p> 
  
 <h1 align="center"> Projects </h1>
@@ -206,6 +207,7 @@
  
  <!-- Project-10  -->
 </table>
+
 <br/><hr/>
 
 <h1 align="center"> Quiz </h1>
