@@ -8,21 +8,8 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px" height="30px">, I'm Ajay Dhangar.</h1>
 <h3 align="center">A passionate Full-stack web developer from India</h3>
 
-<a href="https://app.daily.dev/ajaydhangar49"><img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif"  height="500" width="400" align="right" alt="Ajay Dhangar's Dev Card"/></a>
+<a href="https://app.daily.dev/ajaydhangar49"><img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif"  height="400" width="400" align="right" alt="Ajay Dhangar's Dev Card"/></a>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ajay-dhangar&label=Profile%20views&color=0e75b6&style=flat" alt="ajay-dhangar" /> </p>
- 
-<a href="https://linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=ajay-dhangar" target="_blank">
-<img src=https://img.shields.io/badge/𝙵𝚘𝚕𝚕𝚘𝚠_𝙼𝚎_𝙾𝚗-𝙻𝚒𝚗𝚔𝚎𝚍𝙸𝚗-orange.svg?style=flat-square=behance&logoColor=white alt=youtube style="margin-bottom: 5px;" />
-</a>
-
-<br>
-<br>
- <a href="https://paytm.me/dFv-Ft8" target="_blank">
-<img src=https://img.shields.io/badge/Support_Me-12-blue.svg?style=flat-square=behance&logoColor=white alt=youtube style="margin-bottom: 5px;" />
-</a>
-    
-<br> 
 
 - 🔭 I’m currently working on [Full Stack Web Development ](#).
 
@@ -38,9 +25,20 @@
 
 - 📫 How to reach me **ajaydhangar49@gmail.com**
 
-- 📃 I regularly write articles on [Hashnode](https://ajaydhangar49.hashnode.dev/)z
+- 📃 I regularly write articles on [Hashnode](https://ajaydhangar49.hashnode.dev/)
 
 <br />
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ajay-dhangar&label=Profile%20views&color=0e75b6&style=flat" alt="ajay-dhangar" /> </p>
+ 
+<a href="https://linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=ajay-dhangar" target="_blank">
+<img src=https://img.shields.io/badge/𝙵𝚘𝚕𝚕𝚘𝚠_𝙼𝚎_𝙾𝚗-𝙻𝚒𝚗𝚔𝚎𝚍𝙸𝚗-orange.svg?style=flat-square=behance&logoColor=white alt=youtube style="margin-bottom: 5px;" />
+</a>
+
+ <a href="https://paytm.me/dFv-Ft8" target="_blank">
+<img src=https://img.shields.io/badge/Support_Me-12-blue.svg?style=flat-square=behance&logoColor=white alt=youtube style="margin-bottom: 5px;" />
+</a>
+
  <a href="https://www.youtube.com/channel/UCRQBq8dfTEZfIMxmq-Ba9Tw/?sub_confirmation=1" target="_blank">
 <img src=https://img.shields.io/badge/YouTube_Subscriber-1.12K-orange.svg?style=flat-square=behance&logoColor=white alt=youtube style="margin-bottom: 5px;" />
 </a> 
@@ -70,6 +68,7 @@
 
 <hr>
 
+ <a href="#"><img src="https://github.com/Ajay-Dhangar/Ajay-Dhangar/assets/99037494/2d9936c1-6dda-4e46-b083-ef1bac7de146"  height="300" width="600" align="right" alt="Ajay Dhangar's"/></a>
 
 [![ajay-dhangar's StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=18530900)](https://stackoverflow.com/users/18530900/ajay-dhangar)
 
