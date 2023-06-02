@@ -193,18 +193,65 @@
  
  <tr>
   <td>7.</td>
-  <td>Onelink</td>
+  <td>Advice App</td>
   <td><a href="https://github.com/Ajay-Dhangar/onelink#readme">Click</a></td>
+  <td><a href="https://ajay-dhangar.github.io/advice-app/">Click</a></td>
+  <td><a href="https://github.com/Ajay-Dhangar/advice-app">Click</a></td>
+  <td><a href="#">Coming Soon...</a></td>
+ </tr> 
+ 
+ <!-- Project-8  -->
+ <tr>
+  <td>8.</td>
+  <td>Onelink</td>
+  <td><a href="https://github.com/Ajay-Dhangar/advice-app#readme">Click</a></td>
   <td><a href="https://onelink-ajay.vercel.app/">Click</a></td>
   <td><a href="https://github.com/Ajay-Dhangar/onelink">Click</a></td>
   <td><a href="#">Coming Soon...</a></td>
  </tr> 
  
- <!-- Project-8  -->
- 
  <!-- Project-9  -->
  
+ <tr>
+  <td>9.</td>
+  <td>Alarm-Clock</td>
+  <td><a href="https://github.com/Ajay-Dhangar/Alarm-Clock#readme">Click</a></td>
+  <td><a href="https://ajay-dhangar.github.io/Alarm-Clock/">Click</a></td>
+  <td><a href="https://github.com/Ajay-Dhangar/Alarm-Clock">Click</a></td>
+  <td><a href="#">Coming Soon...</a></td>
+ </tr> 
+ 
  <!-- Project-10  -->
+ 
+ <tr>
+  <td>10.</td>
+  <td>Restaurant Modern UI</td>
+  <td><a href="https://github.com/Ajay-Dhangar/gericht-restaurant-modern-ui#readme">Click</a></td>
+  <td><a href="https://ajay-1.vercel.app/">Click</a></td>
+  <td><a href="https://github.com/Ajay-Dhangar/gericht-restaurant-modern-ui">Click</a></td>
+  <td><a href="#">Coming Soon...</a></td>
+ </tr>
+ 
+ <!-- Project-11  -->
+ 
+ <tr>
+  <td>11.</td>
+  <td>Text-To-Speech</td>
+  <td><a href="https://github.com/Ajay-Dhangar/text-to-speech-converter#readme">Click</a></td>
+  <td><a href="https://ajay-dhangar.github.io/text-to-speech-converter/">Click</a></td>
+  <td><a href="https://github.com/Ajay-Dhangar/text-to-speech-converter">Click</a></td>
+  <td><a href="#">Coming Soon...</a></td>
+ </tr>
+ 
+ <!-- Project-12  -->
+ 
+ <!-- Project-13  -->
+ 
+ <!-- Project-14  -->
+ 
+ <!-- Project-15  -->
+ 
+ <!-- Project-16  -->
 </table>
 
 <br/><hr/>
