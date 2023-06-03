@@ -113,7 +113,8 @@
  
 </p> 
  
-<h1 align="center"> Projects </h1>
+<h2 align="center"> Projects </h2>
+
 
 | No. | Title | Describe | Preview Link | Source Link | Video |
 | -------------- | -------------- | -------------- | -------------- | -------------- | -------------- |
@@ -121,42 +122,39 @@
 <!-- | Row 2, Column 1 | Row 2, Column 2 | Row 2, Column 3 | Row 1, Column 1 | Row 1, Column 2 | Row 1, Column 3 | -->
 
 <table align="center"> 
-  
- 
-<!-- Project-2  -->
- 
- <tr>
+<!-- Project-2  --> 
+<!--  <tr>
   <td>2.</td>
   <td>Digital Clock</td>
   <td><a href="https://github.com/Ajay-Dhangar/digital-clock#readme">Click</a></td>
   <td><a href="https://ajay-dhangar.github.io/digital-clock/">Click</a></td>
   <td><a href="https://github.com/Ajay-Dhangar/digital-clock">Click</a></td>
   <td><a href="#">Coming Soon...</a></td>
- </tr> 
+ </tr>  -->
  
  <!-- Project-3  -->
  
- <tr>
+<!--  <tr>
   <td>3.</td>
   <td>Twitter Bio</td>
   <td><a href="https://github.com/Ajay-Dhangar/twitter-bio#readme">Click</a></td>
   <td><a href="https://twitter-bio-ajay.vercel.app/">Click</a></td>
   <td><a href="https://github.com/Ajay-Dhangar/twitter-bio">Click</a></td>
   <td><a href="#">Coming Soon...</a></td>
- </tr> 
+ </tr>  -->
 <!-- Project-4  -->
- <tr>
+<!--  <tr>
   <td>4.</td>
   <td>slack Bot</td>
   <td><a href="https://github.com/Ajay-Dhangar/hacker-news-slack-bot#readme">Click</a></td>
   <td><a href="https://hacker-news-slack-bot-git-main-aj-zero-coding.vercel.app/">Click</a></td>
   <td><a href="https://github.com/Ajay-Dhangar/hacker-news-slack-bot">Click</a></td>
   <td><a href="#">Coming Soon...</a></td>
- </tr> 
+ </tr>  -->
  
  <!-- Project-5  -->
  
- <tr>
+<!--  <tr>
   <td>5.</td>
   <td>Quiz App</td>
   <td><a href="https://github.com/Ajay-Dhangar/Quiz-app#readme">Click</a></td>
@@ -164,71 +162,64 @@
   <td><a href="https://github.com/Ajay-Dhangar/Quiz-app">Click</a></td>
   <td><a href="#">Coming Soon...</a></td>
  </tr> 
- 
+  -->
  <!-- Project-6  -->
  
- <tr>
+<!--  <tr>
   <td>6.</td>
   <td>YouTube Clone</td>
   <td><a href="https://github.com/Ajay-Dhangar/youtube_clone/blob/main/README.md">Click</a></td>
   <td><a href="https://my-youtube-ajay.vercel.app/">Click</a></td>
   <td><a href="https://github.com/Ajay-Dhangar/youtube_clone">Click</a></td>
   <td><a href="https://youtu.be/_IT3uO637bg">Watching Now</a></td>
- </tr> 
+ </tr>  -->
  
  <!-- Project-7  -->
  
- <tr>
+<!--  <tr>
   <td>7.</td>
   <td>Advice App</td>
   <td><a href="https://github.com/Ajay-Dhangar/onelink#readme">Click</a></td>
   <td><a href="https://ajay-dhangar.github.io/advice-app/">Click</a></td>
   <td><a href="https://github.com/Ajay-Dhangar/advice-app">Click</a></td>
   <td><a href="#">Coming Soon...</a></td>
- </tr> 
+ </tr>  -->
  
  <!-- Project-8  -->
- <tr>
-  <td>8.</td>
-  <td>Onelink</td>
-  <td><a href="https://github.com/Ajay-Dhangar/advice-app#readme">Click</a></td>
-  <td><a href="https://onelink-ajay.vercel.app/">Click</a></td>
-  <td><a href="https://github.com/Ajay-Dhangar/onelink">Click</a></td>
-  <td><a href="#">Coming Soon...</a></td>
- </tr> 
+ 
  
  <!-- Project-9  -->
  
- <tr>
+<!--  <tr>
   <td>9.</td>
   <td>Alarm-Clock</td>
   <td><a href="https://github.com/Ajay-Dhangar/Alarm-Clock#readme">Click</a></td>
   <td><a href="https://ajay-dhangar.github.io/Alarm-Clock/">Click</a></td>
   <td><a href="https://github.com/Ajay-Dhangar/Alarm-Clock">Click</a></td>
   <td><a href="#">Coming Soon...</a></td>
- </tr> 
+ </tr>  -->
  
  <!-- Project-10  -->
  
- <tr>
+<!--  <tr>
   <td>10.</td>
   <td>Restaurant Modern UI</td>
   <td><a href="https://github.com/Ajay-Dhangar/gericht-restaurant-modern-ui#readme">Click</a></td>
   <td><a href="https://ajay-1.vercel.app/">Click</a></td>
   <td><a href="https://github.com/Ajay-Dhangar/gericht-restaurant-modern-ui">Click</a></td>
   <td><a href="#">Coming Soon...</a></td>
- </tr>
+ </tr> -->
  
  <!-- Project-11  -->
  
- <tr>
+<!--  <tr>
   <td>11.</td>
   <td>Text-To-Speech</td>
   <td><a href="https://github.com/Ajay-Dhangar/text-to-speech-converter#readme">Click</a></td>
   <td><a href="https://ajay-dhangar.github.io/text-to-speech-converter/">Click</a></td>
   <td><a href="https://github.com/Ajay-Dhangar/text-to-speech-converter">Click</a></td>
   <td><a href="#">Coming Soon...</a></td>
- </tr>
+ </tr> -->
  
  <!-- Project-12  -->
  
