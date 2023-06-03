@@ -114,27 +114,14 @@
 </p> 
  
 <h1 align="center"> Projects </h1>
-<table align="center">
-<!-- Projects  -->
- <tr>
-  <th>No.</th>
-  <th>Title</th>
-  <th>Describe</th>
-  <th>Preview Link</th>
-  <th>Source Link</th>
-  <th>Video</th>
- </tr>
- 
-<!-- Project-1  -->
- 
- <tr>
-  <td>1.</td>
-  <td>CodeMastermindHQ</td>
-  <td><a href="https://github.com/Ajay-Dhangar/CodeMastermindHQ#readme">Click</a></td>
-  <td><a href="https://codemastermindhq.vercel.app/">Click</a></td>
-  <td><a href="https://github.com/Ajay-Dhangar/CodeMastermindHQ">Click</a></td>
-  <td><a href="#">Comming soon...</a></td>
- </tr> 
+
+| No. | Title | Describe | Preview Link | Source Link | Video |
+| -------------- | -------------- | -------------- | -------------- | -------------- | -------------- |
+| 1. | CodeMastermindHQ | [Click](https://github.com/Ajay-Dhangar/CodeMastermindHQ#readme) | [Click](https://codemastermindhq.vercel.app/) | [Click](https://github.com/Ajay-Dhangar/CodeMastermindHQ) | Comming soon... |
+<!-- | Row 2, Column 1 | Row 2, Column 2 | Row 2, Column 3 | Row 1, Column 1 | Row 1, Column 2 | Row 1, Column 3 | -->
+
+<table align="center"> 
+  
  
 <!-- Project-2  -->
  
