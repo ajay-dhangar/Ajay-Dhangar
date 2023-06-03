@@ -11,7 +11,7 @@
 <a href="https://app.daily.dev/ajaydhangar49"><img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif"  height="400" width="400" align="right" alt="Ajay Dhangar's Dev Card"/></a>
 
 
-- 🔭 I’m currently working on [Full Stack Web Development ](#).
+- 🔭 I’m currently working on [Full Stack Web Development ](https://codemastermindhq.vercel.app/).
 
 - 🌱 I’m currently learning **JavaScript, DSA, MERN, React, etc.**
 
@@ -25,7 +25,7 @@
 
 - 📫 How to reach me **ajaydhangar49@gmail.com**
 
-- 📃 I regularly write articles on [Hashnode](https://ajaydhangar49.hashnode.dev/)
+- 📃 I regularly write articles on [Hashnode](https://codemastermindhq.vercel.app/docs/intro)
 
 <br />
 
