@@ -116,7 +116,7 @@
  ---------------------------------------------------------------------
  
 
-<h1 align="center"> Projects h2>
+<h1 align="center"> Projects </h2>
 
 
 | No. | Title | Describe | Preview Link | Source Link | Video |
