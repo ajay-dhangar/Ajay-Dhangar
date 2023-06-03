@@ -113,11 +113,14 @@
  
 </p> 
  
-<h2 align="center"> Projects </h2>
+ ---------------------------------------------------------------------
+ 
+
+<h1 align="center"> Projects h2>
 
 
 | No. | Title | Describe | Preview Link | Source Link | Video |
-| -------------- | -------------- | -------------- | -------------- | -------------- | -------------- |
+| :--------------: | :--------------: | :--------------: | :--------------: | :--------------: | :--------------: |
 | 1. | CodeMastermindHQ | [Click](https://github.com/Ajay-Dhangar/CodeMastermindHQ#readme) | [Click](https://codemastermindhq.vercel.app/) | [Click](https://github.com/Ajay-Dhangar/CodeMastermindHQ) | Comming soon... |
 <!-- | Row 2, Column 1 | Row 2, Column 2 | Row 2, Column 3 | Row 1, Column 1 | Row 1, Column 2 | Row 1, Column 3 | -->
 
