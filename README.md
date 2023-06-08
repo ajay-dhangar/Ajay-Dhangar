@@ -25,7 +25,7 @@
 
 - 📫 How to reach me **ajaydhangar49@gmail.com**
 
-- 📃 I regularly write articles on [Hashnode](https://codemastermindhq.vercel.app/docs/intro)
+- 📃 I regularly write articles & Tutorials on [codemastermindhq](https://codemastermindhq.vercel.app/docs/intro)
 
 <br />
 
