@@ -6,6 +6,7 @@
 
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px" height="30px">, I'm Ajay Dhangar.</h1>
+
 <h3 align="center">A passionate Full-stack web developer from India</h3>
 
 <a href="https://app.daily.dev/ajaydhangar49"><img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif"  height="400" width="400" align="right" alt="Ajay Dhangar's Dev Card"/></a>
@@ -66,13 +67,14 @@
 <img src=https://img.shields.io/badge/Medium-31-orange.svg?style=flat-square=behance&logoColor=white alt=medium style="margin-bottom: 5px;" />
 </a> 
 
-<hr>
+---------------------------------------------------
 
  <a href="#"><img src="https://github.com/Ajay-Dhangar/Ajay-Dhangar/assets/99037494/2d9936c1-6dda-4e46-b083-ef1bac7de146"  height="310" width="600" align="right" alt="Ajay Dhangar's"/></a>
 
 [![ajay-dhangar's StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=18530900)](https://stackoverflow.com/users/18530900/ajay-dhangar)
 
-<hr>
+--------------------------------------------------
+
 <!--
 ## Coding  Status :
 
@@ -242,30 +244,21 @@
  <tr><th>No.</th><th>Topics</th><th>Links</th></tr>
  <tr><td>1</td><td>Web Development</td><td><a href="https://forms.office.com/r/S16Thsum7J">Quiz Click</a></td></tr>
 </table>
-<br/><hr/>
-## Coding Profile:
+<br/>
 
-<a href="https://www.leetcode.com/ajaydhangar49" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ajaydhangar49" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/ajaydhangar49" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="ajaydhangar49" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/aj_zero_coding" target="blank"><img align="center" src="https://cdn.codechef.com/sites/default/files/uploads/pictures/4affd66504e9b0069d72dddacaadda29.png" alt="ajaydhangar49" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/ajaydhangar49" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ajaydhangar49" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/ajaydhangar49" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="ajaydhangar49" height="30" width="40" /></a>
-<a href="https://www.topcoder.com/members/ajaydhangar49" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="ajaydhangar49" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@ajaydhangar49" target="blank"><img align="center" src="https://camo.githubusercontent.com/0d8e111fa2d1f1743ca909becc6448691f0d2ee3935a2d3ad82d260f0b046311/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f652f65382f4861636b657245617274685f6c6f676f2e706e67" alt="ajaydhangar49" height="40" width="40" /></a>
-      
-<br />
-      
-## Social Media:
+----------------------------------------------------
 
-<a href="https://linkedin.com/in/ajay-dhangar-bb89b4227/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ajay-dhangar-bb89b4227/" height="30" width="40" /></a>
-<a href="https://www.instagram.com/aj.edu.in/"><img align="left" alt="Dhruba's Instagram" width="32px" src="https://github.com/dhruba-datta/dhruba-datta/blob/main/assets/instagram.svg" />
-</a>
-<a href="https://fb.com/profile.php?id=100078316657152" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="profile.php?id=100078316657152" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@ajay-dhangar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="aj zero coding" height="30" width="40" /></a>
-<a href="https://twitter.com/ajaydha27250016" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ajaydha27250016" height="30" width="40" /></a>
-<a href="https://medium.com/@ajaydhangar49" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ajaydhangar49" height="30" width="40" /></a>
+|Coding Profile: | Social Media:|
+|:-:|:-:|
+|<a href="https://www.leetcode.com/ajaydhangar49" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ajaydhangar49" height="30" width="40" /></a> |<a href="https://linkedin.com/in/ajay-dhangar-bb89b4227/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ajay-dhangar-bb89b4227/" height="30" width="40" /></a> |
+|<a href="https://codeforces.com/profile/ajaydhangar49" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="ajaydhangar49" height="30" width="40" /></a> |<a href="https://www.instagram.com/aj.edu.in/"><img alt="Ajay's Instagram" width="32px" src="https://github.com/dhruba-datta/dhruba-datta/blob/main/assets/instagram.svg" /></a>|
+|<a href="https://www.codechef.com/users/aj_zero_coding" target="blank"><img align="center" src="https://cdn.codechef.com/sites/default/files/uploads/pictures/4affd66504e9b0069d72dddacaadda29.png" alt="ajaydhangar49" height="30" width="40" /></a> |<a href="https://fb.com/profile.php?id=100078316657152" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="profile.php?id=100078316657152" height="30" width="40" /></a>|
+|<a href="https://www.hackerrank.com/ajaydhangar49" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ajaydhangar49" height="30" width="40" /></a> |<a href="https://www.youtube.com/@ajay-dhangar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="aj zero coding" height="30" width="40" /></a>|
+|<a href="https://auth.geeksforgeeks.org/user/ajaydhangar49" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="ajaydhangar49" height="30" width="40" /></a>|<a href="https://twitter.com/ajaydha27250016" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ajaydha27250016" height="30" width="40" /></a>|
+|<a href="https://www.topcoder.com/members/ajaydhangar49" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="ajaydhangar49" height="30" width="40" /></a>|<a href="https://medium.com/@ajaydhangar49" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ajaydhangar49" height="30" width="40" /></a>|
+|<a href="https://www.hackerearth.com/@ajaydhangar49" target="blank"><img align="center" src="https://camo.githubusercontent.com/0d8e111fa2d1f1743ca909becc6448691f0d2ee3935a2d3ad82d260f0b046311/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f652f65382f4861636b657245617274685f6c6f676f2e706e67" alt="ajaydhangar49" height="40" width="40" /></a>|Comming Soon... |
 
-<br>
+----------------------------------------------------------
       
 ## Show some love      
 
@@ -316,13 +309,12 @@
 </a> 
 
 
-<br />
+---------------------------------------
 
-***
+
 ### Some Trophies I have, don't know what for ;)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ajay-dhangar&column=10&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-***
 
 
 <!-- <h2 align="left">Languages and Tools:</h2>
@@ -353,9 +345,8 @@
  -->
  
  ## My Skill Set  
+ 
 <table><tr><td valign="top" width="33%">
-
-
 
 ### Frontend  
 <div align="center">  
@@ -384,9 +375,8 @@
 
 </td><td valign="top" width="33%">
 
-
-
 ### Backend  
+ 
 <div align="center">  
 <a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
@@ -422,25 +412,28 @@
  
 ## Profile Status:
 
-<p align="center" width="100%">
-<img align="left" width="65%" src="https://github-readme-stats.vercel.app/api?username=ajay-dhangar&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" />
-<img align="left" width="27%"   src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajay-dhangar&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)](https://github.com/ajay-dhangar/github-readme-stats" />
+| | |
+|:-:|:-:|
+|<img align="left" src="https://github-readme-stats.vercel.app/api?username=ajay-dhangar&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" />|<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ajay-dhangar&theme=dark" alt="ajay-dhangar" /> |
+| | |
 
-<br/>
+----------------------------------------
+
+<!-- <img align="left" width="27%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajay-dhangar&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)](https://github.com/ajay-dhangar/github-readme-stats" /> -->
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ajay-dhangar&theme=dark" alt="ajay-dhangar" /></p>
 
-</p><br>
-<!-- 
-### My GitHub Summary:
+
+<!-- ### My GitHub Summary:
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ajay-dhangar&theme=monokai)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ajay-dhangar&theme=monokai)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ajay-dhangar&theme=monokai)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ajay-dhangar&theme=monokai&utcOffset=5)
  -->
-<hr>
+ 
+---------------------------------------
+
 <!-- 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/ajaydhangar"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ajaydhangar" /></a><a href="https://ko-fi.com/ajaydhangar"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="ajaydhangar" /></a></p><br><br>
@@ -468,9 +461,9 @@
 }
 ```
 
-<p align="center">
+<!-- <p align="center">
 <a rel="license" href="https://github.com/Ajay-Dhangar"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
-</p>
+</p> -->
 
 <br />
 
