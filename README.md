@@ -455,12 +455,15 @@ In my journey as a software engineer, I have gained expertise in a wide range of
 
 <!-- <img align="left" width="27%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajay-dhangar&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)](https://github.com/ajay-dhangar/github-readme-stats" /> -->
 
-[![Ajay-Dhangar's GitHub | Stats](https://stats.quine.sh/Ajay-Dhangar/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Ajay-Dhangar) [![Ajay-Dhangar's Stack Overflow | Stats](https://stats.quine.sh/Ajay-Dhangar/stack-overflow?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Ajay-Dhangar) 
+![Ajay-Dhangar's GitHub | Stats](https://stats.quine.sh/Ajay-Dhangar/github?theme=dark) ![Ajay-Dhangar's Stack Overflow | Stats](https://stats.quine.sh/Ajay-Dhangar/stack-overflow?theme=dark)
 
-[![Ajay-Dhangar's GitHub | Languages Over Time](https://stats.quine.sh/Ajay-Dhangar/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Ajay-Dhangar)
+![Ajay-Dhangar's GitHub | Languages Over Time](https://stats.quine.sh/Ajay-Dhangar/languages-over-time?theme=dark)
 
+![Ajay-Dhangar's GitHub | Topics Over Time](https://stats.quine.sh/Ajay-Dhangar/topics-over-time?theme=dark)
+
+<!--
 [![Ajay-Dhangar's GitHub | Topics Over Time](https://stats.quine.sh/Ajay-Dhangar/topics-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Ajay-Dhangar)
-
+-->
 <!-- ### My GitHub Summary:
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ajay-dhangar&theme=monokai)
