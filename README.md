@@ -5,14 +5,17 @@
 ![Ajay](https://user-images.githubusercontent.com/99037494/226809341-e38457ff-6291-4e19-9e20-b96c70632264.png)
 
 
+<h2 align="center"><b><i>Welcome to my GitHub profile!</i></b></h2> 
+
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px" height="30px">, I'm Ajay Dhangar.</h1>
 
 <h3 align="center">A passionate Full-stack web developer from India</h3>
 
 <a href="https://app.daily.dev/ajaydhangar49"><img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif"  height="400" width="400" align="right" alt="Ajay Dhangar's Dev Card"/></a>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ajay-dhangar&label=Profile%20views&color=0e75b6&style=flat" alt="ajay-dhangar" /> </p>
 
-- 🔭 I’m currently working on [Full Stack Web Development ](https://codemastermindhq.vercel.app/).
+- 🔭 I’m currently working on [Full Stack Web Development ](https://codemastermindhq.netlify.app/).
 
 - 🌱 I’m currently learning **JavaScript, DSA, MERN, React, etc.**
 
@@ -29,8 +32,6 @@
 - 📃 I regularly write articles & Tutorials on [codemastermindhq](https://codemastermindhq.vercel.app/docs/intro)
 
 <br />
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ajay-dhangar&label=Profile%20views&color=0e75b6&style=flat" alt="ajay-dhangar" /> </p>
  
 <a href="https://linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=ajay-dhangar" target="_blank">
 <img src=https://img.shields.io/badge/𝙵𝚘𝚕𝚕𝚘𝚠_𝙼𝚎_𝙾𝚗-𝙻𝚒𝚗𝚔𝚎𝚍𝙸𝚗-orange.svg?style=flat-square=behance&logoColor=white alt=youtube style="margin-bottom: 5px;" />
@@ -74,6 +75,37 @@
 [![ajay-dhangar's StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=18530900)](https://stackoverflow.com/users/18530900/ajay-dhangar)
 
 --------------------------------------------------
+
+## 👨‍💻 About Me
+I'm Ajay Dhangar, a dedicated software engineer passionate about creating elegant and efficient solutions to complex problems. With a strong background in programming and a deep curiosity for emerging technologies, I strive to contribute to the ever-evolving world of software development.
+
+I am a dedicated and passionate software engineer with a strong background in building scalable web applications. My expertise lies in full-stack development, where I excel in both front-end and back-end technologies. I am a firm believer in the power of open source and actively contribute to various projects in the developer community.
+
+In my journey as a software engineer, I have gained expertise in a wide range of technologies, including but not limited to:
+
+<!--
+### Technologies:
+
+**Languages:**
+- JavaScript: 
+- Java: 
+
+**Web Development:**
+- HTML:
+- CSS: 
+- React.js:
+- Node.js:
+  
+**Database Technologies:**
+- MySQL: 
+- MongoDB: 
+
+**DevOps:**
+- AWS: 
+
+**Version Control**:
+- Git: 
+-->
 
 <!--
 ## Coding  Status :
