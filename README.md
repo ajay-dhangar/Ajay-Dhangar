@@ -79,33 +79,6 @@
 ## 👨‍💻 About Me
 I'm Ajay Dhangar, a dedicated software engineer passionate about creating elegant and efficient solutions to complex problems. With a strong background in programming and a deep curiosity for emerging technologies, I strive to contribute to the ever-evolving world of software development.
 
-I am a dedicated and passionate software engineer with a strong background in building scalable web applications. My expertise lies in full-stack development, where I excel in both front-end and back-end technologies. I am a firm believer in the power of open source and actively contribute to various projects in the developer community.
-
-In my journey as a software engineer, I have gained expertise in a wide range of technologies, including but not limited to:
-
-<!--
-### Technologies:
-
-**Languages:**
-- JavaScript: 
-- Java: 
-
-**Web Development:**
-- HTML:
-- CSS: 
-- React.js:
-- Node.js:
-  
-**Database Technologies:**
-- MySQL: 
-- MongoDB: 
-
-**DevOps:**
-- AWS: 
-
-**Version Control**:
-- Git: 
--->
 
 <!--
 ## Coding  Status :
@@ -162,137 +135,6 @@ In my journey as a software engineer, I have gained expertise in a wide range of
 |<a href="https://www.hackerearth.com/@ajaydhangar49" target="blank"><img align="center" src="https://camo.githubusercontent.com/0d8e111fa2d1f1743ca909becc6448691f0d2ee3935a2d3ad82d260f0b046311/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f652f65382f4861636b657245617274685f6c6f676f2e706e67" alt="ajaydhangar49" height="40" width="40" /></a>|Comming Soon... | |
 
 ----------------------------------------------------------
-      
-
-<h1 align="center"> Projects </h2>
-
-
-| No. | Title | Describe | Preview Link | Source Link | Video |
-| :--------------: | :--------------: | :--------------: | :--------------: | :--------------: | :--------------: |
-| 1. | CodeMastermindHQ | [Click](https://github.com/Ajay-Dhangar/CodeMastermindHQ#readme) | [Click](https://codemastermindhq.vercel.app/) | [Click](https://github.com/Ajay-Dhangar/CodeMastermindHQ) | Comming soon... |
-<!-- | Row 2, Column 1 | Row 2, Column 2 | Row 2, Column 3 | Row 1, Column 1 | Row 1, Column 2 | Row 1, Column 3 | -->
-
-<table align="center"> 
-<!-- Project-2  --> 
-<!--  <tr>
-  <td>2.</td>
-  <td>Digital Clock</td>
-  <td><a href="https://github.com/Ajay-Dhangar/digital-clock#readme">Click</a></td>
-  <td><a href="https://ajay-dhangar.github.io/digital-clock/">Click</a></td>
-  <td><a href="https://github.com/Ajay-Dhangar/digital-clock">Click</a></td>
-  <td><a href="#">Coming Soon...</a></td>
- </tr>  -->
- 
- <!-- Project-3  -->
- 
-<!--  <tr>
-  <td>3.</td>
-  <td>Twitter Bio</td>
-  <td><a href="https://github.com/Ajay-Dhangar/twitter-bio#readme">Click</a></td>
-  <td><a href="https://twitter-bio-ajay.vercel.app/">Click</a></td>
-  <td><a href="https://github.com/Ajay-Dhangar/twitter-bio">Click</a></td>
-  <td><a href="#">Coming Soon...</a></td>
- </tr>  -->
-<!-- Project-4  -->
-<!--  <tr>
-  <td>4.</td>
-  <td>slack Bot</td>
-  <td><a href="https://github.com/Ajay-Dhangar/hacker-news-slack-bot#readme">Click</a></td>
-  <td><a href="https://hacker-news-slack-bot-git-main-aj-zero-coding.vercel.app/">Click</a></td>
-  <td><a href="https://github.com/Ajay-Dhangar/hacker-news-slack-bot">Click</a></td>
-  <td><a href="#">Coming Soon...</a></td>
- </tr>  -->
- 
- <!-- Project-5  -->
- 
-<!--  <tr>
-  <td>5.</td>
-  <td>Quiz App</td>
-  <td><a href="https://github.com/Ajay-Dhangar/Quiz-app#readme">Click</a></td>
-  <td><a href="https://quiz-app-ajay-dhangar.vercel.app/">Click</a></td>
-  <td><a href="https://github.com/Ajay-Dhangar/Quiz-app">Click</a></td>
-  <td><a href="#">Coming Soon...</a></td>
- </tr> 
-  -->
- <!-- Project-6  -->
- 
-<!--  <tr>
-  <td>6.</td>
-  <td>YouTube Clone</td>
-  <td><a href="https://github.com/Ajay-Dhangar/youtube_clone/blob/main/README.md">Click</a></td>
-  <td><a href="https://my-youtube-ajay.vercel.app/">Click</a></td>
-  <td><a href="https://github.com/Ajay-Dhangar/youtube_clone">Click</a></td>
-  <td><a href="https://youtu.be/_IT3uO637bg">Watching Now</a></td>
- </tr>  -->
- 
- <!-- Project-7  -->
- 
-<!--  <tr>
-  <td>7.</td>
-  <td>Advice App</td>
-  <td><a href="https://github.com/Ajay-Dhangar/onelink#readme">Click</a></td>
-  <td><a href="https://ajay-dhangar.github.io/advice-app/">Click</a></td>
-  <td><a href="https://github.com/Ajay-Dhangar/advice-app">Click</a></td>
-  <td><a href="#">Coming Soon...</a></td>
- </tr>  -->
- 
- <!-- Project-8  -->
- 
- 
- <!-- Project-9  -->
- 
-<!--  <tr>
-  <td>9.</td>
-  <td>Alarm-Clock</td>
-  <td><a href="https://github.com/Ajay-Dhangar/Alarm-Clock#readme">Click</a></td>
-  <td><a href="https://ajay-dhangar.github.io/Alarm-Clock/">Click</a></td>
-  <td><a href="https://github.com/Ajay-Dhangar/Alarm-Clock">Click</a></td>
-  <td><a href="#">Coming Soon...</a></td>
- </tr>  -->
- 
- <!-- Project-10  -->
- 
-<!--  <tr>
-  <td>10.</td>
-  <td>Restaurant Modern UI</td>
-  <td><a href="https://github.com/Ajay-Dhangar/gericht-restaurant-modern-ui#readme">Click</a></td>
-  <td><a href="https://ajay-1.vercel.app/">Click</a></td>
-  <td><a href="https://github.com/Ajay-Dhangar/gericht-restaurant-modern-ui">Click</a></td>
-  <td><a href="#">Coming Soon...</a></td>
- </tr> -->
- 
- <!-- Project-11  -->
- 
-<!--  <tr>
-  <td>11.</td>
-  <td>Text-To-Speech</td>
-  <td><a href="https://github.com/Ajay-Dhangar/text-to-speech-converter#readme">Click</a></td>
-  <td><a href="https://ajay-dhangar.github.io/text-to-speech-converter/">Click</a></td>
-  <td><a href="https://github.com/Ajay-Dhangar/text-to-speech-converter">Click</a></td>
-  <td><a href="#">Coming Soon...</a></td>
- </tr> -->
- 
- <!-- Project-12  -->
- 
- <!-- Project-13  -->
- 
- <!-- Project-14  -->
- 
- <!-- Project-15  -->
- 
- <!-- Project-16  -->
-</table>
-
-<!-- <br/><hr/> -->
-
-<!-- <h1 align="center"> Quiz </h1>
-<table align="center">
- <tr><th>No.</th><th>Topics</th><th>Links</th></tr>
- <tr><td>1</td><td>Web Development</td><td><a href="https://forms.office.com/r/S16Thsum7J">Quiz Click</a></td></tr>
-</table>
-<br/> -->
-
-----------------------------------------------------
 
 ## Show some love      
 
@@ -485,7 +327,7 @@ In my journey as a software engineer, I have gained expertise in a wide range of
 
 ## Intro with Code
 
-```json
+```json:intro.json
 {
   "name": "Ajay Dhangar",
   "title": "Software Developer",
@@ -501,49 +343,6 @@ In my journey as a software engineer, I have gained expertise in a wide range of
 }
 ```
 
-<!-- <p align="center">
-<a rel="license" href="https://github.com/Ajay-Dhangar"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
-</p> -->
-
 <br />
 
 <div align="center">Made with ❤️ by <a href="https://ajay-dhangar.github.io" target="_blank">Ajay-Dhangar</a></div>
-
-
-   
-<!--    ## stylized text format in ASCII art:
-   
-   ```
-    ______   __                          __  ______      __              __               
-  / ____/  / /_   ____   __  __  _____ / /_/ ____/___ _/ /_   ____ _   / /_   ____ ______
- / /      / __ \ / __ \ / / / / / ___// __/ / __/ __ `/ __/  / __ `/  / __ \ / __ `/ ___/
-/ /___   / /_/ // /_/ // /_/ / (__  )/ /_/ /_/ / /_/ / /_   / /_/ /  / /_/ // /_/ / /    
-\____/  /_.___/ \____/ \__,_/ /____/ \__/\____/\__,_/\__/   \__,_/  /_.___/ \__,_/_/     
-                                                                                        
----------------------------------------------------------------------------------------
-
- __   __     ______     __         __   __     ______     ______     ______     __   __     ______  
-/\ "-.\ \   /\  __ \   /\ \       /\ "-.\ \   /\  __ \   /\  ___\   /\  == \   /\ "-.\ \   /\  == \ 
-\ \ \-.  \  \ \ \/\ \  \ \ \____  \ \ \-.  \  \ \  __ \  \ \ \____  \ \  __<   \ \ \-.  \  \ \  __/ 
- \ \_\\"\_\  \ \_____\  \ \_____\  \ \_\\"\_\  \ \_\ \_\  \ \_____\  \ \_\ \_\  \ \_\\"\_\  \ \_\   
-  \/_/ \/_/   \/_____/   \/_____/   \/_/ \/_/   \/_/\/_/   \/_____/   \/_/ /_/   \/_/ \/_/   \/_/  
-  
-  ----------------------------------------------------------------------------------------
-  
-    ____        _     _     _
- / ___|  __ _| |__ | |__ (_)_ __   __ _
-| |  _ / _` | '_ \| '_ \| | '_ \ / _` |
-| |_| | (_| | |_) | |_) | | | | | (_| |
- \____|\__,_|_.__/|_.__/|_|_| |_|\__, |
-                                |___/
----------------------------------------------------------------------------------------------
-
-   _   _      _ _
-  | | | | ___| | | ___   _   _   _ __     __ _    ___   _ __
-  | |_| |/ _ \ | |/ _ \ | | | | | '_ \   / _` |  / _ \ | '__|
-  |  _  |  __/ | | (_) || |_| | | | | | | (_| | |  __/ | |
-  |_| |_|\___|_|_|\___/  \__, | |_| |_|  \__,_|  \___| |_|
-                        |___/
-----------------------------------------------------------------------------------------------
-
-  ``` -->
