@@ -4,9 +4,6 @@
  
 ![Ajay](https://user-images.githubusercontent.com/99037494/226809341-e38457ff-6291-4e19-9e20-b96c70632264.png)
 
-
-<h2 align="center"><b><i>Welcome to my GitHub profile!</i></b></h2> 
-
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px" height="30px">, I'm Ajay Dhangar.</h1>
 
 <h3 align="center">A passionate Full-stack web developer from India</h3>
@@ -75,9 +72,44 @@
 [![ajay-dhangar's StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=18530900)](https://stackoverflow.com/users/18530900/ajay-dhangar)
 
 --------------------------------------------------
-
+<!--
 ## 👨‍💻 About Me
 I'm Ajay Dhangar, a dedicated software engineer passionate about creating elegant and efficient solutions to complex problems. With a strong background in programming and a deep curiosity for emerging technologies, I strive to contribute to the ever-evolving world of software development.
+-->
+
+<h2 align="center"><b><i> My All Organizations </i></b></h2> 
+
+<table align="center">
+ <th>Logo/Icon</th>
+ <th>Name</th>
+ <th>Description</th>
+ <tr>
+  <td><a href="https://github.com/CodeMastermindHQ" target="_blank"><img src="https://avatars.githubusercontent.com/u/110243821?s=64&v=4" alt="CodeMastermindHQ" height="50" /></a></td>
+  <td><a href="https://github.com/CodeMastermindHQ" target="_blank">CodeMastermindHQ</a></td>
+  <td>CodeMastermindHQ is a GitHub organization that serves as a hub for developers looking to enhance their coding skills and broaden their knowledge across various programming languages and frameworks. It offers a wide range of educational content, including coding challenges, tutorials, and open-source projects. CodeMastermindHQ aims to create a supportive community where developers can learn, collaborate, and grow together.</td>
+ </tr>
+ <tr>
+  <td><a href="https://github.com/HTML-Mastery" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  </td>
+  <td><a href="https://github.com/HTML-Mastery" target="_blank">HTML Mastery</a></td>
+  <td>HTML-Mastery is a GitHub organization focused on advancing the knowledge and expertise of HTML (Hypertext Markup Language). It provides resources, examples, and tutorials that cover HTML fundamentals, best practices, and the latest developments in HTML5. HTML-Mastery aims to empower developers to build well-structured, semantic, and accessible web pages using HTML.</td>
+ </tr>
+ <tr>
+  <td><a href="https://github.com/CSS3-Mastery" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a> </td>
+  <td><a href="https://github.com/CSS3-Mastery" target="_blank">CSS3 Mastery</a></td>
+  <td>CSS3-Mastery is a GitHub organization dedicated to mastering Cascading Style Sheets (CSS) and keeping up with the latest CSS3 specifications. It offers tutorials, examples, and tips to help developers improve their CSS skills and create beautiful, responsive, and interactive web designs. CSS3-Mastery aims to provide practical insights and techniques for leveraging the power of CSS in modern web development.</td>
+ </tr>
+ <tr>
+  <td><a href="https://github.com/JavaScript-Mastery" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a> </td>
+  <td><a href="https://github.com/JavaScript-Mastery" target="_blank">JavaScript Mastery</a></td>
+  <td>JavaScript-Mastery is a GitHub organization focused on empowering developers with comprehensive knowledge and expertise in JavaScript. It provides educational resources, coding exercises, and real-world examples to help developers learn and master JavaScript concepts, including ES6 and beyond. JavaScript-Mastery aims to equip developers with the skills needed to build dynamic, scalable web applications using the JavaScript language.</td>
+ </tr>
+ <tr>
+  <td><a href="https://github.com/React-js-Mastery" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a> </td>
+  <td><a href="https://github.com/React-js-Mastery" target="_blank">React Mastery</a></td>
+  <td>React-js-Mastery is a GitHub organization dedicated to mastering the React JavaScript library. It focuses on providing comprehensive resources, tutorials, and best practices for building scalable and efficient web applications using React. Whether you're a beginner or an experienced developer, React-js-Mastery aims to enhance your React skills and help you become a proficient React developer.</td>
+ </tr>
+</table>
+ 
 
 
 <!--
@@ -90,7 +122,7 @@ I'm Ajay Dhangar, a dedicated software engineer passionate about creating elegan
 <br />
    -->
 
-   
+<!--   
 <h1 align="center"> Things I use on a daily basis </h1>
 
 <p align="left">  
@@ -120,20 +152,49 @@ I'm Ajay Dhangar, a dedicated software engineer passionate about creating elegan
 </a>
  
 </p> 
- 
+ -->
  ---------------------------------------------------------------------
- 
- 
-|Coding Profile: | Social Media:| Open Source Contribution: |
-|:-:|:-:|:-:|
-|<a href="https://www.leetcode.com/ajaydhangar49" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ajaydhangar49" height="30" width="40" /></a> |<a href="https://linkedin.com/in/ajay-dhangar-bb89b4227/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ajay-dhangar-bb89b4227/" height="30" width="40" /></a> |[ProjectsHut](https://github.com/priyankarpal/ProjectsHut), [PRs](https://github.com/priyankarpal/ProjectsHut/commit/64b52f48bb40065c483510893cb717d5651dcae2)|
-|<a href="https://codeforces.com/profile/ajaydhangar49" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="ajaydhangar49" height="30" width="40" /></a> |<a href="https://www.instagram.com/aj.edu.in/"><img alt="Ajay's Instagram" width="32px" src="https://github.com/dhruba-datta/dhruba-datta/blob/main/assets/instagram.svg" /></a>|[Facebook](https://github.com/facebook/docusaurus), [PRs](https://github.com/facebook/docusaurus/pull/9069)|
-|<a href="https://www.codechef.com/users/aj_zero_coding" target="blank"><img align="center" src="https://cdn.codechef.com/sites/default/files/uploads/pictures/4affd66504e9b0069d72dddacaadda29.png" alt="ajaydhangar49" height="30" width="40" /></a> |<a href="https://fb.com/profile.php?id=100078316657152" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="profile.php?id=100078316657152" height="30" width="40" /></a>| |
-|<a href="https://www.hackerrank.com/ajaydhangar49" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ajaydhangar49" height="30" width="40" /></a> |<a href="https://www.youtube.com/@ajay-dhangar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="aj zero coding" height="30" width="40" /></a>| |
-|<a href="https://auth.geeksforgeeks.org/user/ajaydhangar49" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="ajaydhangar49" height="30" width="40" /></a>|<a href="https://twitter.com/ajaydha27250016" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ajaydha27250016" height="30" width="40" /></a>| |
-|<a href="https://www.topcoder.com/members/ajaydhangar49" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="ajaydhangar49" height="30" width="40" /></a>|<a href="https://medium.com/@ajaydhangar49" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ajaydhangar49" height="30" width="40" /></a>| |
-|<a href="https://www.hackerearth.com/@ajaydhangar49" target="blank"><img align="center" src="https://camo.githubusercontent.com/0d8e111fa2d1f1743ca909becc6448691f0d2ee3935a2d3ad82d260f0b046311/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f652f65382f4861636b657245617274685f6c6f676f2e706e67" alt="ajaydhangar49" height="40" width="40" /></a>|Comming Soon... | |
 
+ <h2 align="center"><b><i> My Skills & Networks </i></b></h2> 
+
+ <table align="center">
+  <tr>
+   <th>Coding Profile:</th>
+   <th>Social Media:</th>
+   <th>Open Source Contribution:</th>
+   </tr>
+  <tr>
+   <td><a href="https://www.leetcode.com/ajaydhangar49" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ajaydhangar49" height="30" width="40" /></a</td>
+   <td><a href="https://linkedin.com/in/ajay-dhangar-bb89b4227/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ajay-dhangar-bb89b4227/" height="30" width="40" /></a></td>
+   <td><a href="https://github.com/priyankarpal/ProjectsHut">ProjectsHut</a>, <a href="https://github.com/priyankarpal/ProjectsHut/commit/64b52f48bb40065c483510893cb717d5651dcae2">PRs</a></td>
+  </tr>
+  <tr>
+   <td><a href="https://www.codechef.com/users/aj_zero_coding" target="blank"><img align="center" src="https://cdn.codechef.com/sites/default/files/uploads/pictures/4affd66504e9b0069d72dddacaadda29.png" alt="ajaydhangar49" height="30" width="40" /></a></td>
+   <td><a href="https://fb.com/profile.php?id=100078316657152" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="profile.php?id=100078316657152" height="30" width="40" /></a></td>
+   <td><a href="https://github.com/facebook/docusaurus">Facebook</a>, <a href="https://github.com/facebook/docusaurus/pull/9069">PRs</a></td>
+  </tr>
+  <tr>
+   <td><a href="https://www.hackerrank.com/ajaydhangar49" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ajaydhangar49" height="30" width="40" /></a></td>
+   <td><a href="https://www.youtube.com/@ajay-dhangar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="aj zero coding" height="30" width="40" /></a></td>
+   <td></td>
+  </tr>
+  <tr>
+   <td><a href="https://auth.geeksforgeeks.org/user/ajaydhangar49" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="ajaydhangar49" height="30" width="40"  /></a></td>
+   <td><a href="https://twitter.com/ajaydha27250016" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ajaydha27250016" height="30" width="40" /></a></td>
+   <td></td>
+  </tr>  
+ <tr>
+   <td><a href="https://www.topcoder.com/members/ajaydhangar49" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="ajaydhangar49" height="30" width="40" /></a></td>
+   <td><a href="https://medium.com/@ajaydhangar49" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ajaydhangar49" height="30" width="40" /></a></td>
+   <td></td>
+  </tr>
+ <tr>
+   <td><a href="https://www.hackerearth.com/@ajaydhangar49" target="blank"><img align="center" src="https://camo.githubusercontent.com/0d8e111fa2d1f1743ca909becc6448691f0d2ee3935a2d3ad82d260f0b046311/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f652f65382f4861636b657245617274685f6c6f676f2e706e67" alt="ajaydhangar49" height="40" width="40" /></a></td>
+   <td>Comming Soon...</td>
+   <td></td>
+  </tr>
+ </table>
+ 
 ----------------------------------------------------------
 
 ## Show some love      
