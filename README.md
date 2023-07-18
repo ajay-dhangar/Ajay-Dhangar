@@ -29,6 +29,8 @@
 - 📃 I regularly write articles & Tutorials on [codemastermindhq](https://codemastermindhq.vercel.app/docs/intro)
 
 <br />
+
+<a href="https://profile-summary-for-github.com/user/Ajay-Dhangar" target="_blank">👨‍💻 About Me </a>
  
 <a href="https://linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=ajay-dhangar" target="_blank">
 <img src=https://img.shields.io/badge/𝙵𝚘𝚕𝚕𝚘𝚠_𝙼𝚎_𝙾𝚗-𝙻𝚒𝚗𝚔𝚎𝚍𝙸𝚗-orange.svg?style=flat-square=behance&logoColor=white alt=youtube style="margin-bottom: 5px;" />
