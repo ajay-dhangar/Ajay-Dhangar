@@ -396,10 +396,77 @@ I'm Ajay Dhangar, a dedicated software engineer passionate about creating elegan
 
 <a href="https://skyline.github.com/ajay-dhangar/2022" target="_blank"><img src="https://user-images.githubusercontent.com/99037494/211723237-31186fb0-f216-4d5c-aa84-26b5c54ada10.png" align="center" alt="skyline"/></a>
 
-## My Vs Code Settings
+## My Vs Code Theme Settings ( I designed you can be try it)
 
-![vs code themes](https://github.com/Ajay-Dhangar/Ajay-Dhangar/assets/99037494/5a98c5f9-2dd1-47c0-93aa-4f0a46ba23d2)
+<!-- ![vs code themes](https://github.com/Ajay-Dhangar/Ajay-Dhangar/assets/99037494/5a98c5f9-2dd1-47c0-93aa-4f0a46ba23d2) -->
 
+```json
+{
+    "workbench.colorCustomizations": {
+        "activityBar.activeBackground": "#d713e987",
+        "activityBar.activeFocusBorder": "#f50987",
+        "activityBar.foreground": "#5fde10",
+        "activityBar.background": "#0f0f0f",
+        "activityBar.border": "#aaff22",
+        "statusBar.background": "#000000",
+        "statusBar.foreground": "#5fde10",
+        "menu.background": "#000",
+        "menu.foreground": "#5fde10" ,
+        "menu.border": "#5fde10",
+        "menu.selectionBorder": "#f91fcd",
+        "icon.foreground": "#b9a2ff",
+        "titleBar.activeBackground": "#000",
+        "titleBar.activeForeground": "#5fde10",
+        "titleBar.border": "#ffee00",
+        // "titleBar.inactiveBackground": "#ff0000",
+        // "titleBar.inactiveForeground": "#ff0000", 
+        // "tab.inactiveModifiedBorder": "#ff0000",
+        // "tree.inactiveIndentGuidesStroke": "#ff0000",
+        "sideBar.background": "#141514",
+        "sideBar.foreground": "#ce4ee2",
+        "sideBar.border": "#86ff22",
+        "sideBarSectionHeader.background": "#e90ad720",
+        "sideBarTitle.foreground": "#cfc6ff",
+        "panel.background": "#0f0f0f",
+        "panel.border": "#effb0f",
+        "panelTitle.activeForeground": "#94ff1a",
+        "panelTitle.activeBorder": "#ed0bb5",
+        "panelTitle.inactiveForeground": "#4bd8f4",
+        "editor.background": "#09181d",
+        "editor.foreground": "#77d5efe8",
+        
+    },
+    "editor.accessibilitySupport": "off",
+    "redhat.telemetry.enabled": true,
+    "liveServer.settings.donotShowInfoMsg": true,
+    "gitlens.advanced.messages": {
+        "suppressLineUncommittedWarning": true
+    },
+    "explorer.confirmDragAndDrop": false,
+    "liveServer.settings.donotVerifyTags": true,
+    "RainbowBrackets.depreciation-notice": false,
+    "githubPullRequests.pullBranch": "never",
+    "git.confirmSync": false,
+    "git.ignoreRebaseWarning": true,
+    "git.enableSmartCommit": true,
+    "workbench.colorTheme": "Visual Studio Dark",
+    "workbench.iconTheme": "material-icon-theme",
+    "security.workspace.trust.untrustedFiles": "open",
+    "githubPullRequests.remotes": [
+        "origin",
+        "upstream",
+        "shivay"
+    ],
+    "explorer.confirmDelete": false,
+    "window.zoomLevel": 1,
+    "diffEditor.codeLens": true,
+    "editor.cursorBlinking": "smooth",
+    "editor.acceptSuggestionOnEnter": "smart",
+    "settingsSync.ignoredExtensions": [
+    
+    ]
+}
+```
 
 ## Intro with Code
 
