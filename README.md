@@ -436,35 +436,7 @@ I'm Ajay Dhangar, a dedicated software engineer passionate about creating elegan
         "editor.foreground": "#77d5efe8",
         
     },
-    "editor.accessibilitySupport": "off",
-    "redhat.telemetry.enabled": true,
-    "liveServer.settings.donotShowInfoMsg": true,
-    "gitlens.advanced.messages": {
-        "suppressLineUncommittedWarning": true
-    },
-    "explorer.confirmDragAndDrop": false,
-    "liveServer.settings.donotVerifyTags": true,
-    "RainbowBrackets.depreciation-notice": false,
-    "githubPullRequests.pullBranch": "never",
-    "git.confirmSync": false,
-    "git.ignoreRebaseWarning": true,
-    "git.enableSmartCommit": true,
-    "workbench.colorTheme": "Visual Studio Dark",
-    "workbench.iconTheme": "material-icon-theme",
-    "security.workspace.trust.untrustedFiles": "open",
-    "githubPullRequests.remotes": [
-        "origin",
-        "upstream",
-        "shivay"
-    ],
-    "explorer.confirmDelete": false,
-    "window.zoomLevel": 1,
-    "diffEditor.codeLens": true,
-    "editor.cursorBlinking": "smooth",
-    "editor.acceptSuggestionOnEnter": "smart",
-    "settingsSync.ignoredExtensions": [
-    
-    ]
+    // More Code Here...
 }
 ```
 
