@@ -199,6 +199,14 @@ I'm Ajay Dhangar, a dedicated software engineer passionate about creating elegan
  
 ----------------------------------------------------------
 
+## My Projects
+
+<p align="left">
+<a href="https://github.com/Ajay-Dhangar/CodeMastermindHQ"><img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Ajay-Dhangar&repo=CodeMastermindHQ&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&º" alt="my-capstone-project"></a>   
+</p>
+
+----------------------------------------------------------
+
 ## Show some love      
 
 <a href="https://github.com/Ajay-Dhangar" target="_blank">
