@@ -396,6 +396,11 @@ I'm Ajay Dhangar, a dedicated software engineer passionate about creating elegan
 
 <a href="https://skyline.github.com/ajay-dhangar/2022" target="_blank"><img src="https://user-images.githubusercontent.com/99037494/211723237-31186fb0-f216-4d5c-aa84-26b5c54ada10.png" align="center" alt="skyline"/></a>
 
+## My Vs Code Settings
+
+![vs code themes](https://github.com/Ajay-Dhangar/Ajay-Dhangar/assets/99037494/5a98c5f9-2dd1-47c0-93aa-4f0a46ba23d2)
+
+
 ## Intro with Code
 
 ```json:intro.json
