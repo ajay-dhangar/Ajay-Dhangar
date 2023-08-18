@@ -368,8 +368,8 @@ I'm Ajay Dhangar, a dedicated software engineer passionate about creating elegan
 
 <!-- <img align="left" width="27%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajay-dhangar&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)](https://github.com/ajay-dhangar/github-readme-stats" /> -->
 
-<a href="https://quine.sh?utm_source=widgets&utm_campaign=Ajay-Dhangar" target="_blank"><img style="margin: 10px" src="https://stats.quine.sh/Ajay-Dhangar/topics-over-time?theme=dark" alt="Ajay-Dhangar's GitHub | Topics Over Time" height="300"  /></a> 
-<a href="https://quine.sh?utm_source=widgets&utm_campaign=Ajay-Dhangar" target="_blank"><img style="margin: 10px" src="https://stats.quine.sh/Ajay-Dhangar/languages-over-time?theme=dark" alt="Ajay-Dhangar's GitHub | Languages Over Time" height="300"  /></a> 
+<a href="https://quine.sh?utm_source=widgets&utm_campaign=Ajay-Dhangar" target="_blank"><img style="margin: 10px" src="https://stats.quine.sh/Ajay-Dhangar/topics-over-time?theme=dark" alt="Ajay-Dhangar's GitHub | Topics Over Time" height="250"  /></a> 
+<a href="https://quine.sh?utm_source=widgets&utm_campaign=Ajay-Dhangar" target="_blank"><img style="margin: 10px" src="https://stats.quine.sh/Ajay-Dhangar/languages-over-time?theme=dark" alt="Ajay-Dhangar's GitHub | Languages Over Time" height="250"  /></a> 
 
 [![Ajay-Dhangar's GitHub | Dependencies](https://stats.quine.sh/Ajay-Dhangar/dependencies?theme=light)](https://quine.sh?utm_source=widgets&utm_campaign=Ajay-Dhangar) [![Ajay-Dhangar's GitHub | Stats](https://stats.quine.sh/Ajay-Dhangar/github?theme=light)](https://quine.sh?utm_source=widgets&utm_campaign=Ajay-Dhangar) [![Ajay-Dhangar's Stack Overflow | Stats](https://stats.quine.sh/Ajay-Dhangar/stack-overflow?theme=light)](https://quine.sh?utm_source=widgets&utm_campaign=Ajay-Dhangar)
 <!--
