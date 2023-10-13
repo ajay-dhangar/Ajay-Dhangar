@@ -1,6 +1,6 @@
 <!-- ![Ajay Dhangar](https://user-images.githubusercontent.com/99037494/199245423-3d5f027c-6254-4ecf-9624-43fc4e532bb1.png)
 
- -->
+ --> 
  
 ![Ajay](https://user-images.githubusercontent.com/99037494/226809341-e38457ff-6291-4e19-9e20-b96c70632264.png)
 
@@ -78,6 +78,10 @@
 ## 👨‍💻 About Me
 I'm Ajay Dhangar, a dedicated software engineer passionate about creating elegant and efficient solutions to complex problems. With a strong background in programming and a deep curiosity for emerging technologies, I strive to contribute to the ever-evolving world of software development.
 -->
+
+## All Badges
+
+[![An image of @ajaydhangar's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ajaydhangar)](https://holopin.io/@ajaydhangar)
 
 ## My All Organizations
 
