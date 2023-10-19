@@ -2,7 +2,9 @@
 
  --> 
  
-![Ajay](https://user-images.githubusercontent.com/99037494/226809341-e38457ff-6291-4e19-9e20-b96c70632264.png)
+ <!-- ![Ajay](https://user-images.githubusercontent.com/99037494/226809341-e38457ff-6291-4e19-9e20-b96c70632264.png) -->
+
+ [![An image of @ajaydhangar's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ajaydhangar)](https://holopin.io/@ajaydhangar)
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px" height="30px">, I'm Ajay Dhangar.</h1>
 
@@ -78,11 +80,11 @@
 ## 👨‍💻 About Me
 I'm Ajay Dhangar, a dedicated software engineer passionate about creating elegant and efficient solutions to complex problems. With a strong background in programming and a deep curiosity for emerging technologies, I strive to contribute to the ever-evolving world of software development.
 -->
-
+<!--
 ## All Badges
 
 [![An image of @ajaydhangar's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ajaydhangar)](https://holopin.io/@ajaydhangar)
-
+-->
 ## My All Organizations
 
 <div align="center">
