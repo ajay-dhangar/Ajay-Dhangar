@@ -1,5 +1,6 @@
 <!-- ![Ajay Dhangar](https://user-images.githubusercontent.com/99037494/199245423-3d5f027c-6254-4ecf-9624-43fc4e532bb1.png)
 
+<a href="https://profile-summary-for-github.com/user/Ajay-Dhangar" target="_blank">👨‍💻 About Me </a> 
  --> 
  
  <!-- ![Ajay](https://user-images.githubusercontent.com/99037494/226809341-e38457ff-6291-4e19-9e20-b96c70632264.png) -->
@@ -32,8 +33,6 @@
 
 <br />
 
-<a href="https://profile-summary-for-github.com/user/Ajay-Dhangar" target="_blank">👨‍💻 About Me </a>
- 
 <a href="https://linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=ajay-dhangar" target="_blank">
 <img src=https://img.shields.io/badge/𝙵𝚘𝚕𝚕𝚘𝚠_𝙼𝚎_𝙾𝚗-𝙻𝚒𝚗𝚔𝚎𝚍𝙸𝚗-orange.svg?style=flat-square=behance&logoColor=white alt=youtube style="margin-bottom: 5px;" />
 </a>
@@ -69,13 +68,13 @@
 <img src=https://img.shields.io/badge/Medium-31-orange.svg?style=flat-square=behance&logoColor=white alt=medium style="margin-bottom: 5px;" />
 </a> 
 
----------------------------------------------------
+---
 
- <a href="#"><img src="https://github.com/Ajay-Dhangar/Ajay-Dhangar/assets/99037494/2d9936c1-6dda-4e46-b083-ef1bac7de146"  height="310" width="600" align="right" alt="Ajay Dhangar's"/></a>
+<a href="#"><img src="https://github.com/Ajay-Dhangar/Ajay-Dhangar/assets/99037494/2d9936c1-6dda-4e46-b083-ef1bac7de146"  height="310" width="600" align="right" alt="Ajay Dhangar's"/></a>
 
 [![ajay-dhangar's StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=18530900)](https://stackoverflow.com/users/18530900/ajay-dhangar)
 
---------------------------------------------------
+---
 <!--
 ## 👨‍💻 About Me
 I'm Ajay Dhangar, a dedicated software engineer passionate about creating elegant and efficient solutions to complex problems. With a strong background in programming and a deep curiosity for emerging technologies, I strive to contribute to the ever-evolving world of software development.
@@ -85,14 +84,16 @@ I'm Ajay Dhangar, a dedicated software engineer passionate about creating elegan
 
 [![An image of @ajaydhangar's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ajaydhangar)](https://holopin.io/@ajaydhangar)
 -->
-## My All Organizations
 
-<div align="center">
+<h2>My All Organizations</h2> 
+
+<div>
 <a href="https://github.com/CodeMastermindHQ" target="_blank"><img src="https://avatars.githubusercontent.com/u/110243821?s=64&v=4" alt="CodeMastermindHQ" height="50" /></a>
 <a href="https://github.com/HTML-Mastery" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
 <a href="https://github.com/CSS3-Mastery" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>
 <a href="https://github.com/JavaScript-Mastery" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a> 
 <a href="https://github.com/React-js-Mastery" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a> 
+<a href="https://github.com/Node-js-Mastery" target="_blank"><img src="https://avatars.githubusercontent.com/u/147606588?s=200&v=4" alt="Node.Js" height="50" /></a> 
 </div>
 
 <!--
@@ -136,11 +137,12 @@ I'm Ajay Dhangar, a dedicated software engineer passionate about creating elegan
  
 </p> 
  -->
- ---------------------------------------------------------------------
+ 
+ ---
 
- <h2 align="center"><b><i> My Skills & Networks </i></b></h2> 
+ <h2><b><i> My Skills & Networks </i></b></h2> 
 
- <table align="center">
+ <table>
   <tr>
    <th>Coding Profile:</th>
    <th>Social Media:</th>
@@ -178,7 +180,7 @@ I'm Ajay Dhangar, a dedicated software engineer passionate about creating elegan
   </tr>
  </table>
  
-----------------------------------------------------------
+---
 
 ## My Projects
 
@@ -186,7 +188,7 @@ I'm Ajay Dhangar, a dedicated software engineer passionate about creating elegan
 <a href="https://github.com/Ajay-Dhangar/CodeMastermindHQ"><img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Ajay-Dhangar&repo=CodeMastermindHQ&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&º" alt="my-capstone-project"></a>   
 </p>
 
-----------------------------------------------------------
+---
 
 ## Show some love      
 
@@ -236,14 +238,13 @@ I'm Ajay Dhangar, a dedicated software engineer passionate about creating elegan
 <img src=https://img.shields.io/badge/behance-%23191919.svg?&style=for-the-badge&logo=behance&logoColor=white alt=behance style="margin-bottom: 5px;" />
 </a> 
 
-
----------------------------------------
-
+--
 
 ### Some Trophies I have, don't know what for ;)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ajay-dhangar&column=10&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
+---
 
 <!-- <h2 align="left">Languages and Tools:</h2>
 
@@ -275,43 +276,44 @@ I'm Ajay Dhangar, a dedicated software engineer passionate about creating elegan
 ## Languages and Tools  
 
 <div align="center">  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="25" /></a>  
-<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="25" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="25" /></a>  
-<a href="https://www.electronjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/electron-original.svg" alt="Electron" height="25" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="25" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="25" /></a>  
-<a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="25" /></a>  
-<a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="25" /></a>  
-<a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="25" /></a>  
-<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="25" /></a>  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="25" /></a>  
-<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="25" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="25" /></a>  
-<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="25" /></a>  
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="25" /></a>  
-<a href="https://www.raspberrypi.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/raspberrypi.png" alt="Raspberry Pi" height="25" /></a>  
-<a href="https://www.apachefriends.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/xampp.png" alt="XAMPP" height="25" /></a>  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="25" /></a>  
-<a href="https://sass-lang.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="25" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="25" /></a>  
-<a href="https://www.gatsbyjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gatsby.png" alt="Gatsby" height="25" /></a>  
-<a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="25" /></a>  
-<a href="https://wordpress.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="25" /></a>  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="25" /></a>  
-<a href="https://redux.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="25" /></a>  
-<a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="25" /></a>  
-<a href="https://nestjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nestjs.svg" alt="NestJS" height="25" /></a>  
-<a href="https://mui.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mui.png" alt="Material UI" height="25" /></a>  
-<a href="https://styled-components.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/styled-components.png" alt="Styled Components" height="25" /></a>  
-<a href="https://cloud.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="25" /></a>  
-<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="25" /></a>  
-<a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="25" /></a>  
-<a href="https://jquery.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="25" /></a>  
-<a href="https://about.gitlab.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="25" /></a>  
-<a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="25" /></a>  
+<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
+<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
+<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
+<a href="https://www.electronjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/electron-original.svg" alt="Electron" height="50" /></a>  
+<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
+<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
+<a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
+<a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>  
+<a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
+<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
+<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
+<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
+<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
+<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>  
+<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
+<a href="https://www.raspberrypi.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/raspberrypi.png" alt="Raspberry Pi" height="50" /></a>  
+<a href="https://www.apachefriends.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/xampp.png" alt="XAMPP" height="50" /></a>  
+<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
+<a href="https://sass-lang.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="50" /></a>  
+<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
+<a href="https://www.gatsbyjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gatsby.png" alt="Gatsby" height="50" /></a>  
+<a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" /></a>  
+<a href="https://wordpress.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="50" /></a>  
+<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
+<a href="https://redux.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" /></a>  
+<a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>  
+<a href="https://nestjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nestjs.svg" alt="NestJS" height="50" /></a>  
+<a href="https://mui.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mui.png" alt="Material UI" height="50" /></a>  
+<a href="https://styled-components.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/styled-components.png" alt="Styled Components" height="50" /></a>  
+<a href="https://cloud.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="50" /></a>  
+<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
+<a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
+<a href="https://jquery.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="50" /></a>  
+<a href="https://about.gitlab.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="50" /></a>  
+<a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="50" /></a>  
 </div>  
- 
+
+ ---
  
 ## Profile Status:
 
@@ -320,15 +322,20 @@ I'm Ajay Dhangar, a dedicated software engineer passionate about creating elegan
 |<img align="left" src="https://github-readme-stats.vercel.app/api?username=ajay-dhangar&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" />|<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ajay-dhangar&theme=dark" alt="ajay-dhangar" /> |
 | | |
 
-----------------------------------------
+---
 
 <!-- <img align="left" width="27%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajay-dhangar&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)](https://github.com/ajay-dhangar/github-readme-stats" /> -->
+
+<!--
 
 <a href="https://quine.sh?utm_source=widgets&utm_campaign=Ajay-Dhangar" target="_blank"><img style="margin: 10px" src="https://stats.quine.sh/Ajay-Dhangar/topics-over-time?theme=dark" alt="Ajay-Dhangar's GitHub | Topics Over Time" height="250"  /></a> 
 <a href="https://quine.sh?utm_source=widgets&utm_campaign=Ajay-Dhangar" target="_blank"><img style="margin: 10px" src="https://stats.quine.sh/Ajay-Dhangar/languages-over-time?theme=dark" alt="Ajay-Dhangar's GitHub | Languages Over Time" height="250"  /></a> 
 
 [![Ajay-Dhangar's GitHub | Dependencies](https://stats.quine.sh/Ajay-Dhangar/dependencies?theme=light)](https://quine.sh?utm_source=widgets&utm_campaign=Ajay-Dhangar) [![Ajay-Dhangar's GitHub | Stats](https://stats.quine.sh/Ajay-Dhangar/github?theme=light)](https://quine.sh?utm_source=widgets&utm_campaign=Ajay-Dhangar) [![Ajay-Dhangar's Stack Overflow | Stats](https://stats.quine.sh/Ajay-Dhangar/stack-overflow?theme=light)](https://quine.sh?utm_source=widgets&utm_campaign=Ajay-Dhangar)
-<!--
+
+-->
+
+<!-- 
 ![Ajay-Dhangar's GitHub | Languages Over Time](https://stats.quine.sh/Ajay-Dhangar/languages-over-time?theme=dark)
 
 ![Ajay-Dhangar's GitHub | Topics Over Time](https://stats.quine.sh/Ajay-Dhangar/topics-over-time?theme=dark)
@@ -342,22 +349,32 @@ I'm Ajay Dhangar, a dedicated software engineer passionate about creating elegan
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ajay-dhangar&theme=monokai)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ajay-dhangar&theme=monokai)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ajay-dhangar&theme=monokai&utcOffset=5)
+
+---
+
  -->
- 
----------------------------------------
 
 <!-- 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/ajaydhangar"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ajaydhangar" /></a><a href="https://ko-fi.com/ajaydhangar"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="ajaydhangar" /></a></p><br><br>
 
 <hr /> -->
+
+
+<!--
+
 <br />
 
 <a href="https://skyline.github.com/ajay-dhangar/2022" target="_blank"><img src="https://user-images.githubusercontent.com/99037494/211723237-31186fb0-f216-4d5c-aa84-26b5c54ada10.png" align="center" alt="skyline"/></a>
 
+-->
+
+<!--
 ## My Vs Code Theme Settings ( I designed you can be try it)
 
-<!-- ![vs code themes](https://github.com/Ajay-Dhangar/Ajay-Dhangar/assets/99037494/5a98c5f9-2dd1-47c0-93aa-4f0a46ba23d2) -->
+![vs code themes](https://github.com/Ajay-Dhangar/Ajay-Dhangar/assets/99037494/5a98c5f9-2dd1-47c0-93aa-4f0a46ba23d2) -->
+
+<!--
 
 ```json
 {
@@ -416,6 +433,8 @@ I'm Ajay Dhangar, a dedicated software engineer passionate about creating elegan
   }
 }
 ```
+
+-->
 
 <br />
 
