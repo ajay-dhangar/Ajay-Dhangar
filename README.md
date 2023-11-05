@@ -7,9 +7,11 @@
 
  [![An image of @ajaydhangar's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ajaydhangar)](https://holopin.io/@ajaydhangar)
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px" height="30px">, I'm Ajay Dhangar.</h1>
+<!-- <h1 align="center">Hi <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px" height="30px">, I'm Ajay Dhangar.</h1> -->
 
-<h3 align="center">A passionate Full-stack web developer from India</h3>
+<!-- <h3 align="center">A passionate Full-stack web developer from India</h3> -->
+
+<a href="https://www.linkedin.com/in/ajay-dhangar" align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&center=true&width=1000&lines=Hi%2C+there.+I'm+Ajay+Dhangar.+A+Web+Developer+and+Open-Source+enthusiast!" alt="Typing SVG" /></a>
 
 <a href="https://app.daily.dev/ajaydhangar49"><img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif"  height="400" width="400" align="right" alt="Ajay Dhangar's Dev Card"/></a>
 
