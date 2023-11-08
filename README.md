@@ -168,7 +168,7 @@ I'm Ajay Dhangar, a dedicated software engineer passionate about creating elegan
   <tr>
    <td><a href="https://auth.geeksforgeeks.org/user/ajaydhangar49" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="ajaydhangar49" height="30" width="40"  /></a></td>
    <td><a href="https://twitter.com/ajaydha27250016" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ajaydha27250016" height="30" width="40" /></a></td>
-   <td></td>
+   <td><a href="https://github.com/oyepriyansh/DevProfiles">DevProfiles</a>, <a href="https://github.com/oyepriyansh/DevProfiles/pull/208">PRs</a></td>
   </tr>  
  <tr>
    <td><a href="https://www.topcoder.com/members/ajaydhangar49" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="ajaydhangar49" height="30" width="40" /></a></td>
