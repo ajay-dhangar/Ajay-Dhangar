@@ -192,6 +192,8 @@ I'm Ajay Dhangar, a dedicated software engineer passionate about creating elegan
 
 ---
 
+<!--
+
 ## Show some love      
 
 <a href="https://github.com/Ajay-Dhangar" target="_blank">
@@ -240,11 +242,13 @@ I'm Ajay Dhangar, a dedicated software engineer passionate about creating elegan
 <img src=https://img.shields.io/badge/behance-%23191919.svg?&style=for-the-badge&logo=behance&logoColor=white alt=behance style="margin-bottom: 5px;" />
 </a> 
 
---
+---
+
+-->
 
 ### Some Trophies I have, don't know what for ;)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ajay-dhangar&column=10&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+![trophy](https://github-profile-trophy.vercel.app/?username=ajay-dhangar&column=10&theme=matrix)
 
 ---
 
