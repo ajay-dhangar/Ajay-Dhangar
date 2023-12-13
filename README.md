@@ -325,8 +325,8 @@ I'm Ajay Dhangar, a dedicated software engineer passionate about creating elegan
 
 <div>
 <img align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ajay-dhangar&include_all_commits=true&count_private=true&show_icons=true&line_height=24&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=vue-dark,000000,130F40&card_width=450" alt="Wesley's GitHub stats">
- <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=ajay-dhangar&show_icons=true&theme=dark" width="45%" alt="ajay-dhangar" >
-<img align="left" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ajay-dhangar&layout=compact&langs_count=8&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=vue-dark,000000,130F40" alt="Wesley's programming languages">
+ <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ajay-dhangar&show_icons=true&theme=dark" width="400" alt="ajay-dhangar" >
+<img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ajay-dhangar&layout=compact&langs_count=8&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=vue-dark,000000,130F40" alt="Wesley's programming languages">
 </div>
 
 
