@@ -45,11 +45,6 @@
 [![ajay-dhangar's StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=18530900)](https://stackoverflow.com/users/18530900/ajay-dhangar)
 
 ---
-<!--
-## 👨‍💻 About Me
-I'm Ajay Dhangar, a dedicated software engineer passionate about creating elegant and efficient solutions to complex problems. With a strong background in programming and a deep curiosity for emerging technologies, I strive to contribute to the ever-evolving world of software development.
--->
-
 
  <h2><b><i> My Skills & Networks </i></b></h2> 
 
