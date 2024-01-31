@@ -96,7 +96,7 @@
 
 ---
 
-### Some Trophies I have, don't know what for ;)
+## Github Profile Trophy
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=ajay-dhangar&column=10&theme=matrix)
 
