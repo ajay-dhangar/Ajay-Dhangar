@@ -146,10 +146,12 @@
  
 ## Profile Status:
 
-<div>
-<img align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ajay-dhangar&include_all_commits=true&count_private=true&show_icons=true&line_height=24&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&theme=dark&card_width=350" alt="Wesley's GitHub stats"><img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ajay-dhangar&layout=compact&langs_count=8&title_color=7A7ADB&icon_color=2234AE&text_color=#f5f5f5&theme=dark" alt="Wesley's programming languages">
- <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ajay-dhangar&show_icons=true&theme=dark" width="400" alt="ajay-dhangar" >
-</div>
+![](https://github-readme-stats.vercel.app/api?username=ajay-dhangar&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=transparent)
+![contribute](https://github-contributor-stats.vercel.app/api?username=ajay-dhangar&limit=7&contributions=true&hide=B%2B&theme=transparent)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ajay-dhangar&langs_count=12&theme=transparent&layout=compact)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ajay-dhangar&show_icons=true&theme=dark)
+![working day](https://github-contribution-stats.vercel.app/api/?username=ajay-dhangar)
+
 
 ---
 
