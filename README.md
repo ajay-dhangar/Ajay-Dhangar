@@ -46,35 +46,6 @@
 
 ---
 
- <h2><b><i> My Skills & Networks </i></b></h2> 
-
- <table>
-  <tr>
-   <th>Coding Profile:</th>
-   
-   </tr>
-  <tr>
-   <td><a href="https://www.leetcode.com/ajaydhangar49" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ajaydhangar49" height="30" width="40" /></a</td>
-   </tr>
-  <tr>
-   <td><a href="https://www.codechef.com/users/aj_zero_coding" target="blank"><img align="center" src="https://cdn.codechef.com/sites/default/files/uploads/pictures/4affd66504e9b0069d72dddacaadda29.png" alt="ajaydhangar49" height="30" width="40" /></a></td>
-     </tr>
-  <tr>
-   <td><a href="https://www.hackerrank.com/ajaydhangar49" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ajaydhangar49" height="30" width="40" /></a></td>
-     </tr>
-  <tr>
-   <td><a href="https://auth.geeksforgeeks.org/user/ajaydhangar49" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="ajaydhangar49" height="30" width="40"  /></a></td>
-    </tr>  
- <tr>
-   <td><a href="https://www.topcoder.com/members/ajaydhangar49" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="ajaydhangar49" height="30" width="40" /></a></td>
-    </tr>
- <tr>
-   <td><a href="https://www.hackerearth.com/@ajaydhangar49" target="blank"><img align="center" src="https://camo.githubusercontent.com/0d8e111fa2d1f1743ca909becc6448691f0d2ee3935a2d3ad82d260f0b046311/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f652f65382f4861636b657245617274685f6c6f676f2e706e67" alt="ajaydhangar49" height="40" width="40" /></a></td>
-  </tr>
- </table>
- 
----
-
 ## My Projects
 
 <p align="left">
@@ -134,8 +105,8 @@
 ## Profile Status:
 
 ![](https://github-readme-stats.vercel.app/api?username=ajay-dhangar&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=transparent)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ajay-dhangar&langs_count=15&theme=transparent&layout=compact)
 ![contribute](https://github-contributor-stats.vercel.app/api?username=ajay-dhangar&limit=7&contributions=true&hide=B%2B&theme=transparent)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ajay-dhangar&langs_count=12&theme=transparent&layout=compact)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ajay-dhangar&show_icons=true&theme=dark)
 ![working day](https://github-contribution-stats.vercel.app/api/?username=ajay-dhangar)
 
