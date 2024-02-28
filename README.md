@@ -105,10 +105,13 @@
 ## Profile Status:
 
 ![](https://github-readme-stats.vercel.app/api?username=ajay-dhangar&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=transparent)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ajay-dhangar&langs_count=15&theme=transparent&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ajay-dhangar&langs_count=20&theme=transparent&layout=compact)
 ![contribute](https://github-contributor-stats.vercel.app/api?username=ajay-dhangar&limit=7&contributions=true&hide=B%2B&theme=transparent)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ajay-dhangar&show_icons=true&theme=dark)
 ![working day](https://github-contribution-stats.vercel.app/api/?username=ajay-dhangar)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ajay-dhangar&show_icons=true&theme=dark)
+
+
+[![Ajay's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ajay-dhangar&theme=merko)](https://github.com/ajay-dhangar)
 
 
 ---
