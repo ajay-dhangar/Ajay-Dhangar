@@ -23,20 +23,7 @@
 
 - 📃 I regularly write articles & Tutorials on [codemastermindhq](https://codemastermindhq.vercel.app/)
 
-<br />
-
-<a href="https://linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=ajay-dhangar" target="_blank">
-<img src=https://img.shields.io/badge/𝙵𝚘𝚕𝚕𝚘𝚠_𝙼𝚎_𝙾𝚗-𝙻𝚒𝚗𝚔𝚎𝚍𝙸𝚗-orange.svg?style=flat-square=behance&logoColor=white alt=youtube style="margin-bottom: 5px;" />
-</a>
-
- <a href="https://www.youtube.com/channel/UCRQBq8dfTEZfIMxmq-Ba9Tw/?sub_confirmation=1" target="_blank">
-<img src=https://img.shields.io/badge/YouTube_Subscriber-1.12K-orange.svg?style=flat-square=behance&logoColor=white alt=youtube style="margin-bottom: 5px;" />
-</a> 
-
-
-<a href="https://ajaydhangar49.medium.com/" target="_blank">
-<img src=https://img.shields.io/badge/Medium-31-orange.svg?style=flat-square=behance&logoColor=white alt=medium style="margin-bottom: 5px;" />
-</a> 
+<br /><br />
 
 ---
 
