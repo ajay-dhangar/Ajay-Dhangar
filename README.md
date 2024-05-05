@@ -100,6 +100,8 @@
 ![working day](https://github-contribution-stats.vercel.app/api/?username=ajay-dhangar)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ajay-dhangar&show_icons=true&theme=dark)
 
+![profile-summary-cards](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ajay-dhangar&theme=github_dark)
+
 
 [![Ajay's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ajay-dhangar&theme=merko)](https://github.com/ajay-dhangar)
 
