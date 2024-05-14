@@ -106,6 +106,8 @@
 [![Ajay's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ajay-dhangar&theme=merko)](https://github.com/ajay-dhangar)
 
 
+![badge](https://visitor-badge.glitch.me/badge?page_id=Ajay-Dhangar.Ajay-Dhangar)
+
 ---
 
 <br />
