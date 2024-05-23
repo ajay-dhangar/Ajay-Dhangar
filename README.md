@@ -38,10 +38,7 @@
 ## My Projects
 
 <p align="left">
-<a href="https://github.com/Ajay-Dhangar/CodeMastermindHQ"><img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Ajay-Dhangar&repo=CodeMastermindHQ&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&º" alt="my-capstone-project"></a>   
-<a href="https://github.com/Ajay-Dhangar/code-harbor-hub"><img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Ajay-Dhangar&repo=code-harbor-hub&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&º" alt="CodeHarborHub"></a>   
-<a href="https://github.com/Ajay-Dhangar/gym.com"><img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Ajay-Dhangar&repo=gym.com&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&º" alt="GYM"></a>   
-<a href="https://github.com/Ajay-Dhangar/ai-mock-interview"><img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Ajay-Dhangar&repo=ai-mock-interview&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&º" alt="AI Mock Interviews"></a>   
+<a href="https://github.com/CodeHarborHub/codeharborhub"><img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=CodeHarborHub&repo=codeharborhub&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&º" alt="CodeHarborHub"></a>   
 </p>
 
 ---
