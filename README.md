@@ -83,10 +83,12 @@
 ## Profile Status:
 
 ![](https://github-readme-stats.vercel.app/api?username=ajay-dhangar&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=transparent)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ajay-dhangar&langs_count=20&theme=transparent&layout=compact)
-![contribute](https://github-contributor-stats.vercel.app/api?username=ajay-dhangar&limit=7&contributions=true&hide=B%2B&theme=transparent)
 ![working day](https://github-contribution-stats.vercel.app/api/?username=ajay-dhangar)
+![contribute](https://github-contributor-stats.vercel.app/api?username=ajay-dhangar&limit=7&contributions=true&hide=B%2B&theme=transparent)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ajay-dhangar&langs_count=20&theme=transparent&layout=compact)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ajay-dhangar&show_icons=true&theme=dark)
+<a href="https://leetcode.com/ajaydhangar49/"><img width="48%" src="https://leetcode.card.workers.dev/ajaydhangar49?theme=dark&font=baloo&extension=null&border=2&border_radius=8"></a>
+    
 
 ![profile-summary-cards](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ajay-dhangar&theme=github_dark)
 
