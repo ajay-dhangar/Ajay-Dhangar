@@ -57,7 +57,6 @@
 <a href="https://www.hackerearth.com/@ajaydhangar49" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@ajay-dhangar" height="30" width="40" /></a>
 <a href="https://www.geeksforgeeks.org/user/ajaydhangar49/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="@ajaydhangar49" height="30" width="40" /></a>
 <a href="https://profiles.topcoder.com/ajaydhangar49" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="@ajay-dhangar" height="30" width="40" /></a>
-<a href="https://discord.gg/sckhguw9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="@ajay-dhangar" height="30" width="40" /></a>
 </p>
 
 ## My Projects
@@ -68,9 +67,6 @@
 </p>
 
 ---
-
-
-![Metrics](https://metrics.lecoq.io/Ajay-Dhangar?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FCalcutta)
 
 ## Github Profile Trophy
 
