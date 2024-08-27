@@ -59,6 +59,11 @@
 <a href="https://profiles.topcoder.com/ajaydhangar49" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="@ajay-dhangar" height="30" width="40" /></a>
 </p>
 
+## Skills & Tech
+
+<img src="https://skillicons.dev/icons?i=html,css,js,python,typescript,react,vue,nextjs,tailwindcss,express,nodejs,sequelize,mongodb,npm,powershell,redux,styledcomponents,supabase,vscode,windows,yarn,vite,babel,bash,git,github,bootstrap,c,cpp,django,eclipse,java,figma,firebase,githubactions,gitlab,gmail,kali,latex,linux,md,materialui,docker,netlify,vercel,heroku,postman,nestjs,notion" />
+
+
 ## My Projects
 
 <p align="left">
@@ -68,7 +73,7 @@
 
 ---
 
-## Github Profile Trophy
+## GitHub Profile Trophy
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=ajay-dhangar&column=10&theme=matrix)
 
