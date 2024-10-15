@@ -68,7 +68,9 @@
 
 <p align="left">
 <a href="https://github.com/CodeHarborHub/codeharborhub"><img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=CodeHarborHub&repo=codeharborhub&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&º" alt="CodeHarborHub"></a>
-<a href="https://github.com/Ajay-Dhangar/Ajay-Dhangar.github.io"><img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Ajay-Dhangar&repo=Ajay-Dhangar.github.io&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&º" alt="Ajay Dhangar"></a><a href="https://github.com/Ajay-Dhangar/gym.com"><img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Ajay-Dhangar&repo=gym.com&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&º" alt="Ajay Dhangar"></a><a href="https://github.com/eco-farm-hub/goat-farming"><img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=eco-farm-hub&repo=goat-farming&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&º" alt="Ajay Dhangar"></a>   
+<a href="https://github.com/Ajay-Dhangar/Ajay-Dhangar.github.io"><img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Ajay-Dhangar&repo=Ajay-Dhangar.github.io&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&º" alt="Ajay Dhangar"></a>
+ <a href="https://github.com/Ajay-Dhangar/gym.com"><img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Ajay-Dhangar&repo=gym.com&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&º" alt="Ajay Dhangar"></a>
+ <a href="https://github.com/ajay-dhangar/algo"><img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ajay-dhangar&repo=algo&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&º" alt="Ajay Dhangar"></a>   
 </p>
 
 ---
