@@ -5,27 +5,36 @@
 
 ![English Sloka](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=0000FF&random=false&center=true&width=2300&lines=Where+one+sees+othing+else,+hears+nothing+else,+understands+nothing+else,+that+is+where+the+truth+is,+that+is+where+the+essence+of+software+development+is+to+be+understood+in+its+entirety.)
 
-<a href="https://app.daily.dev/ajaydhangar49"><img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif"  height="400" width="400" align="right" alt="Ajay Dhangar's Dev Card"/></a>
+<!-- <a href="https://app.daily.dev/ajaydhangar49"><img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif"  height="400" width="400" align="right" alt="Ajay Dhangar's Dev Card"/></a> -->
+<a href="https://leetcode.com/u/ajaydhangar49/"><img src="https://leetcode-badge-showcase.vercel.app/api?username=ajaydhangar49&theme=onedark&border=border&animated=true" align="right" alt="Ajay Dhangar's Leetcode badges"/></a>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ajay-dhangar&label=Profile%20views&color=0e75b6&style=flat" alt="ajay-dhangar" /> </p>
-
-- 🔭 I’m currently working on [CodeHarborHub](https://www.codeharborhub.live/).
-
-- 🌱 I’m currently learning **JavaScript, DSA, MERN, React, etc.**
-
-- 👯 I’m looking to collaborate on [Web develoment](https://www.codeharborhub.live/).
+- 🔭 I’m currently working on [CodeHarborHub](https://codeharborhub.github.io/) and [Algo](https://ajay-dhangar.github.io/algo). And 📃 I regularly write articles & Tutorials on [codeharborhub](https://codeharborhub.github.io/)
 
 - 👨‍💻 All of my projects are available at [My portfolio Website](https://ajay-dhangar.github.io/).
 
-- 📝 I regularly write articles on [medium.com](https://medium.com/@ajaydhangar49)
+- 🚀 **Exploring New Technologies**: Constantly diving into the latest advancements in **AI, Web Development, and Software Engineering** to stay ahead in the tech industry.
 
-- 💬 Ask me about **HTML, CSS, JavaScript, DSA in JAVA**
+- 🔧 **Working on Side Projects**: Actively developing side projects in **JavaScript, React, and MERN stack** to improve coding skills and problem-solving abilities.
 
-- 📫 Connect with me **[Discord](https://discord.com/invite/BFkPKMsfuZ)**
+- 🌐 **Building Open-Source Projects**: Contributing to the open-source community with projects available on [GitHub](https://github.com/ajay-dhangar) and encouraging collaboration.
 
-- 📃 I regularly write articles & Tutorials on [codemastermindhq](https://codemastermindhq.vercel.app/)
+- 🎥 **Creating Educational Content**: Producing tutorials, guides, and coding challenges on **YouTube** and sharing coding tips on **Twitter**.
+
+- 📚 **Reading Tech Books & Blogs**: Continuously learning through tech books, blogs, and courses related to **Data Structures, Algorithms, and Full-Stack Development**.
+
+- 🛠️ **Mentoring & Coaching**: Providing mentorship for beginners in **JavaScript, React, and open-source contributions**, and sharing learning resources.
+
+- 🌍 **Participating in Hackathons**: Engaging in coding competitions and hackathons to sharpen skills and build innovative solutions.
+
+- 🏆 **Open to Freelance Opportunities**: Available for freelance work in **Web Development, React projects, and Full-Stack Development**.
 
 <br /><br />
+
+---
+
+## Badges
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ajay-dhangar&label=Profile%20views&color=0e75b6&style=flat" alt="ajay-dhangar" /> </p>
 
 ---
 
