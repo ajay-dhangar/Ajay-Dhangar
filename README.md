@@ -1,9 +1,15 @@
 
  [![An image of @ajaydhangar's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ajaydhangar)](https://holopin.io/@ajaydhangar)
 
+ <img width="100%" loading="lazy" src="rainbow-superthin.webp" />
+
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=DEF72C&random=false&center=true&width=1000&lines=%E0%A4%AF%E0%A4%A4%E0%A5%8D%E0%A4%B0+%E0%A4%A8%E0%A4%BE%E0%A4%A8%E0%A5%8D%E0%A4%AF%E0%A4%A4%E0%A5%8D+%E0%A4%AA%E0%A4%B6%E0%A5%8D%E0%A4%AF%E0%A4%A4%E0%A4%BF%2C+%E0%A4%A8%E0%A4%BE%E0%A4%A8%E0%A5%8D%E0%A4%AF%E0%A4%A4%E0%A5%8D+%E0%A4%B8%E0%A5%83%E0%A4%A3%E0%A5%8B%E0%A4%A4%E0%A4%BF%2C+%E0%A4%A8%E0%A4%BE%E0%A4%A8%E0%A5%8D%E0%A4%AF%E0%A4%A4%E0%A5%8D+%E0%A4%B5%E0%A4%BF%E0%A4%9C%E0%A4%BE%E0%A4%A8%E0%A4%BE%E0%A4%A4%E0%A4%BF%E0%A5%A4%E0%A4%A4%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A5%88%E0%A4%B5+%E0%A4%A4%E0%A4%A4%E0%A5%8D%E0%A4%B5%E0%A4%AE%E0%A5%8D+%E0%A4%85%E0%A4%B0%E0%A5%8D%E0%A4%A5%E0%A4%83+%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%BE%E0%A4%A4%E0%A4%B5%E0%A5%8D%E0%A4%AF%E0%A4%82+%E0%A4%B8%E0%A4%B0%E0%A5%8D%E0%A4%B5%E0%A4%AE%E0%A5%8D+%E0%A4%87%E0%A4%A4%E0%A4%BF%E0%A5%A4" lt="sloka" />
 
 ![English Sloka](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=0000FF&random=false&center=true&width=2300&lines=Where+one+sees+othing+else,+hears+nothing+else,+understands+nothing+else,+that+is+where+the+truth+is,+that+is+where+the+essence+of+software+development+is+to+be+understood+in+its+entirety.)
+
+<img width="100%" loading="lazy" src="rainbow-superthin.webp" />
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ajay-dhangar&label=Profile%20views&color=0e75b6&style=flat" alt="ajay-dhangar" /> </p>
 
 <!-- <a href="https://app.daily.dev/ajaydhangar49"><img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif"  height="400" width="400" align="right" alt="Ajay Dhangar's Dev Card"/></a> -->
 <a href="https://leetcode.com/u/ajaydhangar49/"><img src="https://leetcode-badge-showcase.vercel.app/api?username=ajaydhangar49&theme=onedark&border=border&animated=true" align="right" alt="Ajay Dhangar's Leetcode badges"/></a>
@@ -30,19 +36,15 @@
 
 <br /><br />
 
----
-
-## Badges
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ajay-dhangar&label=Profile%20views&color=0e75b6&style=flat" alt="ajay-dhangar" /> </p>
-
----
+<img width="100%" loading="lazy" src="rainbow-superthin.webp" />
 
 <a href="#"><img src="https://github.com/Ajay-Dhangar/Ajay-Dhangar/assets/99037494/2d9936c1-6dda-4e46-b083-ef1bac7de146"  height="310" width="600" align="right" alt="Ajay Dhangar's"/></a>
 
 [![ajay-dhangar's StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=18530900)](https://stackoverflow.com/users/18530900/ajay-dhangar)
 
----
+<img width="100%" loading="lazy" src="rainbow-superthin.webp" />
+
+<!--
 
 ## Connect with me:
 
@@ -68,10 +70,15 @@
 <a href="https://profiles.topcoder.com/ajaydhangar49" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="@ajay-dhangar" height="30" width="40" /></a>
 </p>
 
+<img width="100%" loading="lazy" src="rainbow-superthin.webp" />
+
+-->
+
 ## Skills & Tech
 
 <img src="https://skillicons.dev/icons?i=html,css,js,python,typescript,react,vue,nextjs,tailwindcss,express,nodejs,sequelize,mongodb,npm,powershell,redux,styledcomponents,supabase,vscode,windows,yarn,vite,babel,bash,git,github,bootstrap,c,cpp,django,eclipse,java,figma,firebase,githubactions,gitlab,gmail,kali,latex,linux,md,materialui,docker,netlify,vercel,heroku,postman,nestjs,notion" />
 
+<img width="100%" loading="lazy" src="rainbow-superthin.webp" />
 
 ## My Projects
 
@@ -83,13 +90,13 @@
 <!--  <a href="https://github.com/Ajay-Dhangar/gym.com"><img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Ajay-Dhangar&repo=gym.com&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&º" alt="Ajay Dhangar"></a> -->
 </p>
 
----
+<img width="100%" loading="lazy" src="rainbow-superthin.webp" />
 
 ## GitHub Profile Trophy
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=ajay-dhangar&column=10&theme=matrix)
 
----
+<img width="100%" loading="lazy" src="rainbow-superthin.webp" />
  
 ## Profile Status:
 
@@ -114,7 +121,7 @@
     </picture>
 </div>
 
----
+<img width="100%" loading="lazy" src="rainbow-superthin.webp" />
 
 <br />
 
