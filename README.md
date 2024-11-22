@@ -12,7 +12,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajay-dhangar&label=Profile%20views&color=0e75b6&style=flat" alt="ajay-dhangar" /> </p>
 
 <!-- <a href="https://app.daily.dev/ajaydhangar49"><img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif"  height="400" width="400" align="right" alt="Ajay Dhangar's Dev Card"/></a> -->
-<a href="https://leetcode.com/u/ajaydhangar49/"><img src="https://leetcode-badge-showcase.vercel.app/api?username=ajaydhangar49&theme=onedark&border=border&animated=true" align="right" alt="Ajay Dhangar's Leetcode badges"/></a>
+<a href="https://leetcode.com/u/ajaydhangar49/"><img src="https://leetcode-badge-showcase.vercel.app/api?username=ajaydhangar49&theme=onedark&border=border" align="right" alt="Ajay Dhangar's Leetcode badges"/></a>
 
 - 🔭 I’m currently working on [CodeHarborHub](https://codeharborhub.github.io/) and [Algo](https://ajay-dhangar.github.io/algo). And 📃 I regularly write articles & Tutorials on [codeharborhub](https://codeharborhub.github.io/)
 
