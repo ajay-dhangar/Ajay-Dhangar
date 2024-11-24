@@ -121,7 +121,11 @@
     </picture>
 </div>
 
+<!--
+
 <img width="100%" loading="lazy" src="rainbow-superthin.webp" />
+
+-->
 
 <br />
 
